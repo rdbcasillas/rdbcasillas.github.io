@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Potential problems in teaching meditation"
+categories: meditation
+---
+
+So it is indisputable that Meditation, if done properly, can strengthen your ability to be calm in unfavorable or stressful situations. It can also potentially increase your ability to focus. What is not clear though, is that how does one go about teaching this practice to large groups of people. Traditionally, many people have gone to retreats to effectively learn this practice. Going to a retreat usually means letting go off all the comforts of your current atmosphere by severing all connections to it. You leave your work(if you have any), friends, family for about a time  ranging anywhere from ten days to three or four months. In some extreme cases, people foray into this adventure for more than a year. But can we expect the 21st century worker to competely detach from her social life -- especially with an immense pressure to be constantly available online -- for a long stretch of time? Or do we just keep farming meditation centers in these distractive urban environment for people who just want to feel good and happily say to their peers that they are going for their meditation classes? 
+
+Its true that prospective monks very conveniently abandon the game theoretical world to try and find peace in a world full of ‘suffering’. By suffering I do not necessarily mean poverty or crime. Most of the Buddhist teachings consider constant arrival of cursory thoughts and the the nature of our brains to cling to pleasant emotions and evade the unpleasant ones, as part of suffering. Meditation’s main punch line is that through this practice, its not only possible to get out of this vicious cycle of seeking pleasure and avoiding displeasure, but its also possible to peek into the real nature of one’s consciousness. For the former claim, there are enough positive anectodes and more recently fMRI research that corroborate it. For the latter, there isn’t any objective way to know what is being perceived subjectively. In order to achieve both these goals, to-be monks go away from the hustle bustle of city life  as is the eastern tradition. To experience the promised outcomes of this practice, it seems mandatory to go on a retreat leaving every pleasurable thing behind. But is it really absolutely necessary? 
+
+Training in solitude, without frequent interactions with humans that are busy playing their sophisticated games should be better suited to take the most out of this practice. The more you reduce transactional meetings with humans, less the number of related thoughts that arise in your brain, in turn making you better focus at the practice. But there seems to be a paradox here. If one of the main selling points of indulging in this practice is that it makes you calmer in your outlook and increases empathy towards others, isn’t it better to expose oneself with the challenging situations of urban environment instead of going to an environment where you won’t really get to use the skills anyway? That’s why introducting practice of meditation in urban settings is an important step in the right path. 
+
+One needs to be careful though since stuff like [this](http://www.theguardian.com/society/2014/aug/25/mental-health-meditation) can easily happen in these centers. 
+
+The article discusses the proliferance of meditation centers all over UK and how the incorrect(but useful) marketing of Meditation being a magic pill can lead to dangerous outcomes. As it highlights, instead of just observing the thoughts, one starts to go in the opposite direction and in turn associate oneself with those thoughts even more:
+
+“"While mindfulness meditation doesn't change people's experience, things can feel worse before they feel better," she said. "As awareness increases, your sensitivity to experiences increases. If someone is feeling vulnerable or is not well supported, it can be quite daunting. It can bring up grief and all kinds of emotions, which need to be capably held by an experienced and suitably trained teacher.”
+
+Like with any niche practice, there is a lack of teachers with good experience and knowledge of this practice. Advertising it without focusing on properly training people that are teaching in these centers  can lead to similar outcomes we already see with our depressing education systems.
+
+I was browsing the [meditation subreddit](https://www.reddit.com/r/meditation) when I came across the following story and the subsequent comment :
+
+>A lay person went to the Zen master Bankei and said "some time ago I asked you how to deal with wayward thoughts and you advised me that I should just let thoughts arise and cease as they will. Since then, though I've taken your advice to heart, I've found it difficult to allow my thoughts to arise and cease like this."
+The master said “the reason you're having trouble is that you think there's some special way to let your thoughts just arise and cease as they will".
+
+>So don't get wrapped up in doing it "correctly" or "incorrectly" and don't worry about amounting to something. Just sit in the midst of your unfolding life, right in the middle of it. You have nothing you need to attain, nothing you need to get rid of.
+
+
+Another challenge that isn’t being talked about, is to find a good balance between the meditative states and the states where you let your mind wander. [A study](http://www.eurekalert.org/pub_releases/2013-11/gumc-mii103113.php) showed that the group practicing mindfulness meditation scored lower in tests of implicit learning than less mindful folks. Implicit learning is of the kind that happens unconsciously when we try to acquire new skills or habits. If there is some substance to this study, its not a stretch to claim that mindfulness meditation can on average lead to less creativity. This could be especially important to consider if we are planning to regularly teach this practice to kids. Being mostly in the present moment isn’t really going to trigger out of the box thinking. 
+
+There are some caveats that need addressing before spoon feeding this sudden meditation enthusiasm everywhere. We cannot let another useful tool go to waste by teaching to use it in incorrect and possibly dangerous ways. 
+
