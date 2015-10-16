@@ -14,7 +14,7 @@ One needs to be careful though since stuff like [this](http://www.theguardian.co
 
 The article discusses the proliferance of meditation centers all over UK and how the incorrect(but useful) marketing of Meditation being a magic pill can lead to dangerous outcomes. As it highlights, instead of just observing the thoughts, one starts to go in the opposite direction and in turn associate oneself with those thoughts even more:
 
-“"While mindfulness meditation doesn't change people's experience, things can feel worse before they feel better," she said. "As awareness increases, your sensitivity to experiences increases. If someone is feeling vulnerable or is not well supported, it can be quite daunting. It can bring up grief and all kinds of emotions, which need to be capably held by an experienced and suitably trained teacher.”
+>"While mindfulness meditation doesn't change people's experience, things can feel worse before they feel better," she said. "As awareness increases, your sensitivity to experiences increases. If someone is feeling vulnerable or is not well supported, it can be quite daunting. It can bring up grief and all kinds of emotions, which need to be capably held by an experienced and suitably trained teacher.”
 
 Like with any niche practice, there is a lack of teachers with good experience and knowledge of this practice. Advertising it without focusing on properly training people that are teaching in these centers  can lead to similar outcomes we already see with our depressing education systems.
 
