@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Do specific beliefs matter?"
+
+---
+
+Whatever the reason might be for people to gravitate towards religion, isn’t it true that the beliefs specific to that religion can make all the difference in the actions performed by believers of those beliefs? Its of course an accident that a person born and raised as a Muslim would not have options of Buddhism and Jainism. So when due to whatever sociological or psychological reasons he tries to become more devout and fundamental in his beliefs, he will do that in the religion he knows of. Now since that religions happens to have violent beliefs that provide him an outlet for his frustrations, he will inevitably trust those beliefs and perform the corresponding actions. 
+
+So its clear that the specific beliefs matter when comparing religions and their effects on the world. Religion isn’t really different from bad ideas that we see in astrology, homeopathy, tarot card reading etc. These are all irrational beliefs but most of them happen to be harmless(relatively speaking of course) because the beliefs themselves don’t require you to impose them on others. You can happily believe them in the privacy of your mind without bothering others. But fundamentalist beliefs in some sects of Islam require you to impose them on others. They require you to stone adulterers, imprison atheists and homosexials, kill infidels etc. If you want to maintain rituals and prevent dissidence, its important to strictly follow these rules. Yes, it is a power game but these beliefs can easily be non-violent in their nature of punishments and still try to maintain rituals by strictly asking everyone to follow them. But of course the more violent the beliefs, harder it is for the person to dissent and that’s why Islam works so well in keeping people fundamentalists. 
+
+Its important to take the example of abortion here. People who are completely against it don’t just coincidentally happen to be overwhelmingly religious. The Christian beliefs tell them that even a one week fetus has a soul and hence its murderous to commit abortion. No such argument comes from Islam because they don’t have inception of soul until day 80. That’s why these beliefs can have bad consequences like defunding of planned parenthood, abortion clinics and other similar medical centeres that focus on women’s health.
