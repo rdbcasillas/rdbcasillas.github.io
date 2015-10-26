@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can not believing in free will make you a better person?(incomplete)"
+title: "Can disbelief in free will make you a better person?(incomplete)"
 
 ---
 
