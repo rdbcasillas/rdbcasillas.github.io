@@ -11,4 +11,4 @@ twitter_username: rdbcasillas
 github_username:  rdbcasillas   
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
