@@ -12,3 +12,5 @@ github_username:  rdbcasillas
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+    extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "underline", "quote", "highlight"]
