@@ -14,6 +14,8 @@ I don’t have a good reply to such cases except saying that the ratio of suffer
 
 Some people might worry that if they shouldn't hate people for their negative actions, why continue loving someone for their positive behavior? It can sound contradictory to not hate but continue loving for the aforementioned reasons. But fortunately, there is a <u>[beautiful asymmetry](http://www.samharris.org/blog/item/free-will-and-the-reality-of-love)</u> here. Love is about caring for people close to us and feeling happy in their presence. Not only do these emotions communicate a positive signal to others but we also enjoy experiencing them. Hatred howerer, provides no such benefit and more often than not ends up making the person miserable. 
 
+So in conclusion, not only free will is an incoherent concept, belief in it can do significant harm to the mental health. It might have made sense millions of years ago when we were competing everyone over having more babies but in order to efficiently operate as a calm and loving person in the modern world, its best if we try to do away with this primal instinct. 
+
 
 
 
