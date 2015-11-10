@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Happy pills are invisible and almost impossible to trade"
+
+---
+
+People tend to enjoy acquiring beautiful things by throwing money at them. Be it a sleek car, latest iphones, apparels from respected brands or just a beautiful soul mate. This purchase, once complete, is supposed to make them feel better. But does these transactions really help them in increasing their happiness? Lets ponder on this interesting but now banal topic.
+
+There are couple of obvious reasons I can think of on why people like to spend heavily. One is that when they are earning a lot, there is no other way to show off your income other than possessing expensive material. The usual thinking goes along the lines of ‘People need to know that I am successful and since I am not sharing my actual salary, lets buy some things that give an indication of that’. This strategy totally works and the way others respond to that person changes significantly if they seem him/her with a highly valued object. Secondly, adding a fancy object to your lifestyle will definitely make you feel better if it works out as well as marketed. The reason its expensive is because not only the quality is better but aesthetically too it looks nicer than cheaper objects. So using that object does increase the quality of your experience than if you were using something of lesser quality before.
+
+Problem is, we get used to it. We very quickly become accustomed to using those fancy products and this adaptation brings back the normal irritable things in life back to the surface. So even if once in a while you will observe your car turning a few heads, that feeling is quickly faded by other more persistent worries. People you interact with on daily basis will not be awed everyday they look at your stuff. Attention will eventually come back to your behavior and work ethics. Its something you cannot change by throwing money at.
+
+My suggestion is to spend money on experiences rather than materials. Learn a new skill, take a relaxing vacation or just hang around with friends more often. Unless something goes wrong, these experiences tend to stick more with people, increasing their net happiness and content. Its easier and more fun to remember a happy vacation than when the first time you bought a fancy car. Sure, there will be exceptions to this rule but I think majority store fancy experiences better than the moments with fancy materials in their memory.  Why is that? Well, it makes more sense to remember things that are not constantly be with you. Objects once bought, usually tend to be with you everyday during your normal mundane life. Experiences tend to take you away from the humdrum of your life.
+
+We waste so much time in deciding the perfect fancy object to buy. Once we possess it and start using it, withing few weeks, it becomes like any other thing we previously owned. How can we expect something of this nature to bring us happiness? Or have we totally lost hope on achieving long term content and hence try to focus on never ending ephemeral positive feelings?
