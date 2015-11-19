@@ -1,7 +1,8 @@
-  ---
-  layout: post
-  title: "Can disbelief in free will make you a better person?"
-  ---
+---
+layout: post
+title: "Can disbelief in free will make you a better person?"
+
+---
 
 Forgiveness. Hard to remember the last time I thought ‘I forgive that person’. This isn't because I have been unbelievably lucky to only interact with rational, kind and all loving section of humanity. <u>[Stupidity is uniformly distributed](http://harmful.cat-v.org/people/basic-laws-of-human-stupidity/)</u> and I do get my fare share of it. But the lack of forgiveness thought is primarily due to the fact that I don't *feel* much anger or contempt at people who act stupid. Why not, you ask?  Because even if there is an initial emotional response of frustration, I immediately rationalize it with my belief that humans don't possess  <u>[free will](https://en.wikipedia.org/wiki/Free_will)</u> and their actions are just byproducts of their historical environment, inherited genes and a hint of randomness. Although there are still a few loose ends that need tying, I have gone through this process of rationalization so many times that it has sort of hardwired me to not respond with a negative emotion. How could I possibly be mad at someone and then forgive them,  when I don’t even consider them as authors of their own actions? This isn't true only on the negative side of the spectrum of behaviors. The same logic applies to thanking a person. Although for the sake of politeness and giving positive feedback, I do say ‘thank you’ so that they know they did a helpful act and its appreciated, I don’t really *feel* thankful. It may sound as if I am operating like an android without feeling any emotions but that isn't really true. On the other hand, I have noticed that this thinking encourages me to help people without expecting anything in return. And this then brings a soothing calmness followed by a feeling of content. The reason to not expect anything in return is that the factors that would make them return or not are beyond me or that person. To be clear though, this doesn't mean I don't update my understanding of that person's nature if they happen to ignore me when I am in the need of their help. It would be stupid and more importantly inefficient to keep helping jerks(with no fault of my own I should add). In fact, on many occasions you clearly want to convey their mistreatment or irrationality for the sake of giving their brains negative feedback. This is precisely why its important to throw dangerous criminals in prisons. Its just that I end up holding no grudge against them for their behavior which allows me to keep my mind empty of unnecessary indignation. 
 
@@ -16,24 +17,3 @@ Some people also worry that if they shouldn't hate people for their negative act
 So in conclusion, I have argued that not only is free will an <u>[incoherent concept](http://www.pnas.org/lens/pnas/107/10/4499)</u>, belief in it can do significant harm to our mental health. This belief may have made sense thousands of years ago when we were competing with everyone over producing more babies, but in order to efficiently operate as a calm and altruistic person in the modern world, its best if we try to do away with this primal instinct. As Charles Darwin <u>[notes in one of his unpublished works](http://www.discovery.org/a/9581)</u>:
 
 >This view should teach one profound humility, one deserves no credit for anything. Nor ought one to blame others.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
