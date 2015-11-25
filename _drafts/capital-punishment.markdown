@@ -7,15 +7,18 @@ title: "Absurdity of Capital Punishment"
 
 With the recent celebrations on court's decision regarding the Delhi gang-rape, I think this country is in dire need to understand how useless and unethical this whole concept is and why we need to be more rational whenever discussing about it. Over the course of this article, I will dispute most common arguments for death penalty, then consider few scenarios where death penalty might make sense and finally say a few words on what I think should happen with perpetrators of Delhi rape. 
 
-Over the history of justice systems in various human societies, Death penalty has played a consistent role. We have had some really cruel ancestors punishing the criminals(innocents too) as brutally(and innovative I must say) as possible. 	
-Here are a few methods deployed(from wiki) :
-"Severe historical penalties include breaking wheel, boiling to death, flaying, slow slicing, disembowelment, crucifixion, impalement, crushing (including crushing by elephant), stoning, execution by burning, dismemberment, sawing, decapitation, scaphism, necklacing or blowing from a gun."
-But over the last century, such gruesome acts have been thankfully abolished and most death penalties are by hanging, shooting or injecting the criminal with some form of lethal chemical. But also over the last few decades, there has been a concern of whether death penalty actually helps in making society better by reducing the crime-rate.
+Over the history of justice systems in various human societies, death penalty has played a consistent role. We cannot be very proud of some of our sadistic ancestors who thoroughly enjoyed punishing criminals(many of whom were innocents by today's morals) as brutally as possible. 	As the [wikipedia page for capital punishment](https://en.wikipedia.org/wiki/Capital_punishment) enlightens and horrifies us:
+
+>Severe historical penalties include breaking wheel, boiling to death, flaying, slow slicing, disembowelment, crucifixion, impalement, crushing (including crushing by elephant), stoning, execution by burning, dismemberment, sawing, decapitation, scaphism, necklacing or blowing from a gun."
+
+Each of those methods has a wikipedia page of its own. I don't recommend them to the faint hearted. But its important to understand how innovative some of the architects of these brutal methods were. There was a consensus feeling that the longer the perpetrator's death can be postponed, more effective the method. They wanted the criminal to go through the excruciating pain for eternity. This of course would also allow more people to witness the event which would inculcate the fear for that crime. It would also be more entertaining for some as witnessing bloodshed was one of humanity's [favorite forms of entertainment](https://en.wikipedia.org/wiki/Gladiator).
+
+But over the last few centuries, such gruesome acts have been thankfully abolished and most death penalties are by hanging, shooting or injecting the criminal with a lethal chemical. But much more recently, there has also been a concern over whether death penalty actually helps in making society better by reducing the crime-rate.
 
 Let me just lay down all the arguments(that I can think of) put forth by defenders of capital punishment : 
 1. Harsh punishments will deter future crime and potential criminals will know better before committing such heinous acts.
 2. These criminals have inflicted so much pain on their victims, they totally deserve death. Some even argue that death is easier way out and they would probably prefer one of the above historical methods mentioned.
-3. What is the use of keeping these criminals alive ? They are an unnecessary burden for prisons and our tax money should not be spent on them.
+3. What is the use of keeping these criminals alive? They are an unnecessary burden for prisons and our tax money should not be spent on them.
 
 Now let me destroy these arguments one by one(this will be long!) :
 1.Now lets just understand what is being claimed here. When there will be harsh punishments, the person committing crime will think about the punishment and after some thinking, due to fear will abandon that idea of that crime and will go on his own business. Does this sound ridiculous to anyone ? 
@@ -45,10 +48,5 @@ Once the data has been collected, they should be made to work inside jails to pr
 p.s. : I am sure some people will disagree with my thoughts and I would welcome constructive criticism. Apart from just disagreeing, also try to point where I am wrong so that I can correct those thoughts in an updated post.  
 
 
-
-
-
-
-    
  
 
