@@ -11,17 +11,23 @@ Over the history of justice systems in various human societies, death penalty ha
 
 >Severe historical penalties include breaking wheel, boiling to death, flaying, slow slicing, disembowelment, crucifixion, impalement, crushing (including crushing by elephant), stoning, execution by burning, dismemberment, sawing, decapitation, scaphism, necklacing or blowing from a gun."
 
-Each of those methods has a wikipedia page of its own. I don't recommend them to the faint hearted. But its important to understand how innovative some of the architects of these brutal methods were. There was a consensus feeling that the longer the perpetrator's death can be postponed, more effective the method. They wanted the criminal to go through the excruciating pain for eternity. This of course would also allow more people to witness the event which would inculcate the fear for that crime. It would also be more entertaining for some as witnessing bloodshed was one of humanity's [favorite forms of entertainment](https://en.wikipedia.org/wiki/Gladiator).
+Each of those methods has a wikipedia page of its own. Not recommended them for the faint hearted. But its important to understand how innovative some of the architects of these brutal methods were. There was a consensus feeling that the longer the perpetrator's death can be postponed, more effective the method. They wanted the criminal to go through the excruciating pain for eternity. This would of course also allow maximum number of people to witness the event which would then inculcate the fear for that crime. It would also be more entertaining for some folks as witnessing bloodshed of society's lowest was one of humanity's [favorite forms of entertainment](https://en.wikipedia.org/wiki/Gladiator).
 
 But over the last few centuries, such gruesome acts have been thankfully abolished and most death penalties are by hanging, shooting or injecting the criminal with a lethal chemical. But much more recently, there has also been a concern over whether death penalty actually helps in making society better by reducing the crime-rate.
 
-Let me just lay down all the arguments(that I can think of) put forth by defenders of capital punishment : 
-1. Harsh punishments will deter future crime and potential criminals will know better before committing such heinous acts.
-2. These criminals have inflicted so much pain on their victims, they totally deserve death. Some even argue that death is easier way out and they would probably prefer one of the above historical methods mentioned.
-3. What is the use of keeping these criminals alive? They are an unnecessary burden for prisons and our tax money should not be spent on them.
 
-Now let me destroy these arguments one by one(this will be long!) :
-1.Now lets just understand what is being claimed here. When there will be harsh punishments, the person committing crime will think about the punishment and after some thinking, due to fear will abandon that idea of that crime and will go on his own business. Does this sound ridiculous to anyone ? 
+I will start by laying down the common arguments that are put forth by defenders of capital punishment : 
+1. Harsh punishments will deter future crime and potential criminals will know better before committing such heinous acts.
+
+2. These criminals have inflicted so much pain on their victims, they definitely deserve to die. In some cases, relatives of the victim would even argue that quick death is an easier way out and the criminal deserves to experience pain before execution. 
+
+3. What could possibly be useful in keeping these criminals alive? They are an unnecessary burden for prisons and our tax money should not be spent on feeding them and providing "housing" for these monsters.
+
+
+Now lets try to tackle these arguments one by one:
+
+1. Lets just try and understand what is being claimed here. When there will be harsher punishments, the person planning to commit the crime will reflect on the punishment before the act. After some thinking and searching on the internet for the exact harsh consequencing of his act, fearing that punishment, will eventually abandon the project and go on normally with other important things in his life. Doesn't this sound ridiculous to anyone?
+
 First of all, thats not at all how mind of a criminal(or human mind for that matter) works. Most of the crimes(homicides, rapes) are often committed in an excited emotional state. There is no time for rationalizing the consequences of one's acts. This is especially true for the cases of rape where negative consequences(if any) are much much farther away than the nearby pleasures. Humans tend to think short-term. For example, if I give 1000 rupees now or give you 2000 over the period of two years or more, most of you will go for the former option. Now some people might say that "its obvious that most of the criminals aren't thinking properly but who cares ?? they should know whats coming for them if they don't think properly !!". Well, here the argument of deterrence totally falls apart. If you want to deter a crime by increasing the punishment, you absolutely want them to think. But if they aren't thinking anyway, then it doesn't matter how harsh the punishment is !
 
 Secondly, there is no proper evidence at the moment that tells us if capital punishment is actually useful in reducing crime rates. In fact, there is some counter evidence coming from US. Texas has had much higher rate of death penalty than other states for a long time and still the murder rate there is still 1.5 points higher than states without any death penalty.(http://www.deathpenaltyinfo.org/murder-rates-nationally-and-state)
@@ -35,7 +41,8 @@ My point is this. All the criminal minds are created either because of their gen
 3. Third one is actually easier to rebuke because there has been quite a good amount of recent evidence suggesting that the money spent in the overall proceedings of a death trial is much more than the amount spent on a person incarcerated for life. For more information on this, check this :
 http://en.wikipedia.org/wiki/Capital_punishment_debate_in_the_United_States#Cost
 
-Now these are the two scenarios(that rarely happen) where death penalty might make sense :
+Now these are the two scenarios(that rarely happen) where death penalty might make sense:
+
 1.Imagine a psychopath who has committed 15-20 murders. He is finally captured and sentenced to life imprisonment. Psychologists collect data from him to improve understanding of such people's mind(a few brain scans like MRI too).Finally he is told to work in jail and produce something for prison society. His need to kill doesn't stop though and he ends up killing 2-3 people in jail too. Now he is sent to some different jail in isolation. More studies on him are done and finally its decided that the changes in his brain are irreversible. And keeping him alive securely in isolation will cost too much tax money. In this case, it might be perfectly rational to put him to sleep. 
 
 2.High profile terrorists of groups like Al-Qaeda and Taliban, if captured surely should be put to death once all the interrogation(which is mostly useless) is over. These people can trigger dangerous hijacks by members of their own groups(of planes or whatever) and can get freed as a blackmail. 
