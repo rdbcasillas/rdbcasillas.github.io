@@ -60,12 +60,13 @@ This one is actually easier to rebuke because there is some recent evidence sugg
 
 
 
-####Is it ever okay to use it? 
+###Is it ever okay to use it? 
 
-Sure. I can imagine couple of rare situations where it might be logical to indulge in it. Take the capture of a leader of a terrorist organization(or any important person involved in the functioning of that organization) for example. If its certain that we cannot extract any information from him about his organization's workings, keeping him alive may risk a hostage tragedy like <u>[aircraft hijacking](https://en.wikipedia.org/wiki/List_of_aircraft_hijackings)</u> where the terrorists may try to bargain the release of their leader. One of the notable instances that comes to mind is hijack of <u>[Indian Airline flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814)</u> where the government agreed to release people who ended up playing some role in future crimes like 9/11. The most rational thing to do knowing the possibility of such dangerous events, is to get rid of those terrorists from this planet. 
+Sure. Its easy to imagine a few rare cases where it might be logical to execute an imprisoned criminal. Imagine a captured leader of an Islamic terrorist organization(or any important person involved in the functioning of such organization) for example. If its certain that we cannot extract any information from him about his organization's workings, keeping him alive may risk a hostage tragedy like <u>[aircraft hijacking](https://en.wikipedia.org/wiki/List_of_aircraft_hijackings)</u> where the terrorists may try to bargain the release of their leader. One of the notable instances that comes to mind is the hijack of <u>[Indian Airline flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814)</u> where the government agreed to release terrorists who ended up playing minor roles in future crimes like 9/11. The most rational thing to do, knowing the possibility of such dangerous atrocities is to get rid of those terrorists from this planet itself. 
 
 
 
+In conclusion, I believe capital punishment's capital punishment is long overdue and we need to stop fooling ourselves by believing that it decreases crime in societies where its rigurously implemented. The dark angels of human nature are always lurking given the right circumstances and the solution is to try and curb their origin rather than beating one of them to death and hoping others will learn. 
 
 
  
