@@ -60,6 +60,13 @@ This one is actually easier to rebuke because there is some recent evidence sugg
 
 
 
+####What do criminologists have to say
+
+[A study done in 2009](http://www.deathpenaltyinfo.org/study-88-criminologists-do-not-believe-death-penalty-effective-deterrent) which asked criminologists whether death penalty can have any deterrence had this conclusion :
+
+>Nearly 88% of those surveyed said that having the death penalty in a state does not lower the murder rate. In addition, 91% of respondents said politicians support the death penalty in order to appear tough on crime – and 75% said that it distracts legislatures on the state and national level from focusing on real solutions to crime problems. Over all, 94% agreed that there was little empirical evidence to support the deterrent effect of the death penalty. And 90% said the death penalty had little effect overall on the committing of murder. Additionally, 91.6% said that increasing the frequency of executions would not add a deterrent effect, and 87.6% said that speeding up executions wouldn't work either.”[2]
+
+
 ###Is it ever okay to use it? 
 
 Sure. Its easy to imagine a few rare cases where it might be logical to execute an imprisoned criminal. Imagine a captured leader of an Islamic terrorist organization(or any important person involved in the functioning of such organization) for example. If its certain that we cannot extract any information from him about his organization's workings, keeping him alive may risk a hostage tragedy like <u>[aircraft hijacking](https://en.wikipedia.org/wiki/List_of_aircraft_hijackings)</u> where the terrorists may try to bargain the release of their leader. One of the notable instances that comes to mind is the hijack of <u>[Indian Airline flight 814](https://en.wikipedia.org/wiki/Indian_Airlines_Flight_814)</u> where the government agreed to release terrorists who ended up playing minor roles in future crimes like 9/11. The most rational thing to do, knowing the possibility of such dangerous atrocities is to get rid of those terrorists from this planet itself. 
