@@ -30,7 +30,7 @@ Fear. Anxiety. Frustration. All these emotions were together making him frantica
 "I already had a good one."
 
 
-It was a clear sunny day today. No more clouds that had been persistent over the last one week. Murtos hates sunny days so the weather wasn't helping either. He took another puff of his fifteenth cigarette since the phone call that shook him an hour ago. He felt a bit of a pain in his chest but felt calmer now. Some specific thoughts were of course still racing as if they were having a Formula 1 race amongst each other. He couldn’t follow any one of them for very long as some other one would overtake the first one within few seconds. What the fuck did that phone call mean, how could anyone know, did that voice sound familiar, what should I do next, were some of the thoughts that were leading the race. He stretched his memory as much as possible to recall if he had ever mentioned the idea of writing a book to anyone. How could he possibly have? He was certain that it was today that he thought about the whole thing for the first time. And even if it did cross his mind before, there is absolutely no one close enough to share such an idea with. And if it was someone I know, why would they cut the phone immediately and then switch it off? 
+It was a clear sunny day today. No more clouds that had been persistent over the last one week. Murtos hates sunny days so the weather wasn't helping either. He took another puff of his fifteenth cigarette since the phone call that shook him an hour ago. He felt a bit of a pain in his chest but mentally felt calmer with all the nicotine in his brain. Some specific thoughts were of course still racing as if they were having a Formula 1 race amongst each other. He couldn’t follow any one of them for very long as some other one would overtake the first one within few seconds. What the fuck did that phone call mean, how could anyone know, did that voice sound familiar, what should I do next, were some of the thoughts that were leading the race. He stretched his memory as much as possible to recall if he had ever mentioned the idea of writing a book to anyone. How could he possibly have? He was certain that it was today that he thought about the whole thing for the first time. And even if it did cross his mind before, there is absolutely no one close enough to share such an idea with. And if it was someone I know, why would they cut the phone immediately and then switch it off? 
 
 He had engaged in the pointless exercise of calling the same number maybe every time he had lit up a cig. He looked up on the internet to confirm that it was a local number. He had no clue on how this information would help him. It didn’t matter if it was a local call or from across the ocean. He just wanted to feel that he was making some progress in demystifying this puzzle. For a split second, the thought of calling the police also tried leading the race but was quickly overcome by other more realistic ones. Can someone read my mind? Did someone implant a chip in my head to read all my thoughts? This thought was scaring him so much, he had to go take a quick dump. Could this event be Universe's one of biggest coincidence ever? Maybe some crazy bastard is playing a stupid game and randomly calling many people just to say this hoping his bluff will become true in at least one case. Lot of people think of writing nowadays. But how can the timing be so perfect? “I was just thinking of writing it for the very first time, godamnit!” he shouted again in his eerily quiet house and felt weird after breaking the silence. What are the fucking odds? he resumed the self-conversation in his head.
 
@@ -38,46 +38,51 @@ Suddenly it struck him that the person who called said that he was told to give 
 
 *******************************************
 
-Rutsa had never seen a movie before on a movie screen. She was nineteen. This would have shocked most people if they didn’t know that Rutsa had also never eaten in a restaurant. She did have coffee and tea quite regularly but never any food. Weirdo, as everyone would call her. But she obviously liked it and was always on a lookout for a new antisocial thing to do or follow. She wanted this behavior to define her life. 
+Rutsa has never seen a movie before in a movie theater. She is nineteen. This fact would have shocked most people if they didn’t know that Rutsa has also never eaten in a restaurant for the past seven years. She does have coffee, tea and soft drinks like coke quite regularly but never any food. Weirdo, as everyone would call her. But she obviously likes being called weirdo and is always on a lookout for a new antisocial thing to do. She wants this behavior to define her life. 
 
-She opened the drawer of her cupboard and took out her favorite pencil. She has been using it for 763 days now and plans to continue writing her journal with it until she dies. What happens if she loses it? She stops writing the journal. Thats how precious the pencil is to her(or rather she wanted it to become precious). She of course has exceptions to this rule. Lost of the pencil doesn’t include a natural disaster or it breaking due to abrasion. She believes that special care would only come if the stakes are very high. This is what she wrote in her journal:
+She pulled the drawer of her small plastic cupboard and took out her favorite pencil. She has been using it for 763 days now and plans to continue writing her journal with it until she dies. What happens if she loses it? She stops writing the journal. Thats how precious the pencil is to her(or rather she wanted it to become precious). She of course has exceptions to this rule. Lost of the pencil doesn’t include a natural disaster or it breaking due to abrasion. She believes that special care would only come if the stakes are high. This is what she wrote in her journal today:
 
-‘Today was not so good as yesterday. Which means I rarely got a chance to look different. I think people are getting used to my unusualness. Didn’t expect it to happen so quickly. Need to come up with new eccentricities. How about going bald? I have already experienced sex couple of times and it was not awesome or anything. I like it but its not something I will miss if it never happens for the next three or four years. My only fear is the reaction of Mum & Dad who would loose it their shit. But the amount of attention I would get from not just college people but also strangers would be immense! Definitely thinking about this seriously for next couple of days. 
+Date: 24th July, 2029
+Today was not so good as yesterday. Which means I rarely got a chance to look different. I think people are getting used to my unusualness. Didn’t expect it to happen so quickly. Need to come up with new eccentricities. How about going bald? I have already experienced sex couple of times and it was not awesome or anything. The experience was good but its not something I will miss if it never happens for the next three or four years. My only fear is the reaction of Mum & Dad who would loose their shit. But the amount of attention I would get from not just college people but also strangers would bring a lot of Dopamine! Definitely thinking about this seriously for the next couple of days. 
 
-Pasha was acting very nice today. Wonder what could I possibly give her. Need to avoid her as plague if she is planning to make a team of unusual buddies or something. Becoming bald would definitely freak her out. Would be too much for her too. But maybe I just caught her in a good mood.
+Pasha was acting very nice today. Wonder what could I possibly give her. Need to avoid her if she is on to something...like maybe become a friend or something? Becoming bald would definitely freak her out. But maybe I just caught her in a good mood.
 
-I need to pay more attention to my Biology class readings. I wasn’t prepared today for the fascinating topic of DNA methylation. Could not contribute a single bit in the discussions. 
+I need to pay more attention to my Biology class readings. I wasn’t prepared today for epigenetics. It was a fascinating topic and I couldn't contribute at all to the discussion. 
 
 End of journal.’
 
-Her writings were never long. She intentionally kept them short so as to write everyday. After revising it and making minor syntactical changes, she put the pencil back in the drawer. Then she typed the pros and cons of going bald for an hour. Pros were easily winning 6 to 2 but she won’t decide so fast. Although she wasn’t scared of doing it, it was big enough to give couple of days of thinking. 
+Her writings were never long. She intentionally kept them short so as to have something to write everyday. After revising it and correcting few spellings, she closed the diary and put pencil back in the drawer. Then she typed the pros and cons of going bald for an hour on her tablet. Pros were easily winning 6 to 2 but she won’t decide this so fast. She wasn’t but it was a big enough decision to allow few more days of thinking. 
 
-‘Rutsa? Someone has come to meet you...Pasha?......Pasha has come to meet you’ shouted her Mum from upstairs. 
-‘Coming up in a minute!’ Before running up, Rusta quickly added one more pro for going bald ..’gets you rid of Pasha’.
+‘Rutsaaaaa? Rutsaaaa? Pasha has come to meet you’ shouted her Mum from upstairs. 
+‘Coming up in a minute Ma!’ Before running up, Rusta quickly added one more pro for going bald ..’gets you rid of Pasha’.
 
 ‘Hey Pasha, wasn’t expecting you. Whats up.’ she said with a well done fake smile.
 ‘Oh, nothing. Its..uhm..just that..uhm, can we go out for a walk?’ 
 ‘Yes but is everything ok? You sound a bit confused.’ 
-‘I want to talk to you in privacy without ...umm...without fearing any intrusion. Its just that...everything is perfectly ok.’
-‘Ok, lets go. Mum! Will be back in sometime!’
-Rusta’s mum took couple of seconds before saying  ‘I was bringing some juice honey.’
+‘I want to talk to you in privacy without ...umm...without any intrusion. Its just that...yeah, everything is perfectly ok. Can we go now?’
+‘Ok, lets go. Maaa! Will be back in sometime!’
+Rusta’s mum took couple of seconds before shouting  ‘I was bringing some honey juice, honey.’
 
-That small delay was enough for her statement to miss out on her daughter’s ears. They had already left the house. 
+That small delay was enough for her statements to miss out on her daughter’s ears. They had already left the house. 
 
 **************************
 
 ‘Tell me, what is so secretive that we couldn’t talk in my house?’
 ‘This might sound a bit strange but..umm... I think ...umm... I think I want to know more about you.’
-‘Ok...What do you want to know?’
+‘Ok...thats very funny Pashsa. What do you want to know?’
 ‘I don’t know. Its just that I want to know more of you as a person....even if that means hanging out with you.’
 ‘Hmm..thats interesting. Do I intrigue you?’
 ‘Yes. A lot. I think there is a part of me which relates to you but is too scared to attempt what you do.’
 ‘Attempt what? What do you mean?’ Rutsa instantly thought that she would have to take out her precious pencil again. Maybe this day would not turn out to be so bad after all. 
-‘Well, the way you behave, the unique and weird habits you have acquired. Its something I have always want to do but was scared to actually attempt it.’
+‘Well, the way you act and behave around people. The unique and weird habits you have acquired. Its something I have always want to do but was scared to actually attempt it.’
 ‘But thats how I am Pasha, I am not pretending or anything.’
-‘Really? I am sorry if that’s the case Rutsa but I see so many similar behaviors in you that I have imagined of doing  over the past few years.’ Pasha continued after an awkward pause in which they stared in each other’s eyes, trying to see the soul.... ‘It just seems you are always trying to stand in the crowd...even if it means a look of disapproval from everyone.’
-‘I don’t care about people’s perception Pasha, I am not going to change just because they don’t like it. That is the real me! Accept it or fuck off is the motto I operate on.’
-‘So can I hang out more with you?’
+
+‘Really? I am sorry if that’s the case Rutsa but I see so many similar behaviors in you that I have imagined of doing over the past few years.’ They stared deeply into each other’s eyes for the next few seconds. Rutsa trying hard to notice any signs of deception while Pasha trying to be utmost convincing. Pasha eventually put an halt to this eye-fucking. ‘It just seems...' she continue, "It just seems you are always trying to stand out in the crowd...even if it means a complete look of disapproval from everyone. I admire that.’
+
+‘I don’t care about people’s perception Pasha, I am not going to change just because they don’t like it. That is the real me! Accept it or fuck off is the motto I operate on. But you know that it comes with a huge social cost. I never get invited to any birthday parties. Nobody wants to befriend me.’
+
+‘Yes and all of that fascinates me. So can I start hanging out with you?’
+
 ‘You are most welcome to. But the way you have been accusing me of pretending, I don’t think it would be a healthy relationship. My mother’s judgement is overwhelming enough.’
 ‘Look. Maybe I misunderstood you. But just because you are not pretending doesn’t lessen my fascination with you. I think I will become more learned and possibly wiser by chatting with you.’
 ‘I have no idea how this works. You ask me for permission and then starting tomorrow we start sitting together in class or something?’
