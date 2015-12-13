@@ -79,17 +79,13 @@ That small delay was enough for her statements to miss out on her daughter’s e
 
 ‘Really? I am sorry if that’s the case Rutsa but I see so many similar behaviors in you that I have imagined of doing over the past few years.’ They stared deeply into each other’s eyes for the next few seconds. Rutsa trying hard to notice any signs of deception while Pasha trying to be utmost convincing. Pasha eventually put an halt to this eye-fucking. ‘It just seems...' she continue, "It just seems you are always trying to stand out in the crowd...even if it means a complete look of disapproval from everyone. I admire that.’
 
-‘I don’t care about people’s perception Pasha, I am not going to change just because they don’t like it. That is the real me! Accept it or fuck off is the motto I operate on. But you know that it comes with a huge social cost. I never get invited to any birthday parties. Nobody wants to befriend me.’
+‘I don’t care about people’s perception Pasha, I am not going to change just because they don’t like it. That is the real me! Accept it or fuck off is the motto I operate on. But you know that it comes with a huge social cost. I never get invited to any birthday parties. Nobody wants to be friends with me.’
 
-‘Yes and all of that fascinates me. So can I start hanging out with you?’
+‘Yes and all of that fascinates me. So is it ok if I hang out with you?’
 
-‘You are most welcome to. But the way you have been accusing me of pretending, I don’t think it would be a healthy relationship. My mother’s judgement is overwhelming enough.’
-‘Look. Maybe I misunderstood you. But just because you are not pretending doesn’t lessen my fascination with you. I think I will become more learned and possibly wiser by chatting with you.’
-‘I have no idea how this works. You ask me for permission and then starting tomorrow we start sitting together in class or something?’
-‘I am not sure either. But I am getting sick of some of the girls I currently talk and hang out with. I need to change my atmosphere and I believe you are the healthiest person to be with at the moment.’
-‘Well, don’t blame me if this idea doesn’t works out for you. I am not a bad person or anything but I can be really selfish sometimes.’
-‘I don’t care and who isn’t selfish?’
-‘Well, thats true...’
+Rutsa felt puzzled because during this conversation, she had not been able to figure out why Pasha was so interested in her. What could be the reason she wants this? 
+
+
 
 The strange conversation took a normal course for the next few minutes before they finally left for their respective houses. Rutsa would probably be writing a lot in her journal tonight. Her mind was racing with the thoughts on dealing with this unique and somewhat uncomfortable situation. Pasha....well... she would be immediately informing her gang about her success in convincing Rutsa.  
 
