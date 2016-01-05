@@ -1,10 +1,10 @@
 # Site settings
-title: Blurring the boundaries between sciences
-email: your-email@domain.com
+title: Unwronging instincts  
+email: mehra.vatsal@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Observations in social science, psychology and other
-    interesting aspects of our carbon based lives, occasionally 
-    through the language of computers.
+    Thoughts on social science, psychology and other
+    interesting aspects of our carbon based lives. 
+    
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rdbcasillas.github.io" # the base hostname & protocol for your site
 twitter_username: rdbcasillas   
