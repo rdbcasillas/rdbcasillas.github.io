@@ -14,6 +14,6 @@ title: Books
 <br>
 <br>
 
-####Books recently consumed
+####Snapshot of my bookshelf at Goodreads
 
 {% include goodreads_read.html %}
