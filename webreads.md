@@ -17,3 +17,5 @@ Collection of important essays that contain useful ideas. These are largely long
 4. [Genetic pleiotropy may explain the positive association between high physical activity and mortality. Inheritance of healthy phenotype could be the primary cause for observing longevity, not fitness attitude after maturity](http://www.nature.com/articles/srep18259)
 
 5. [Slow but heartening progress in improving the Strategies for Engineered Negligible Senescence(SENS)](https://www.fightaging.org/archives/2015/12/a-look-back-at-2015-in-longevity-science.php)
+
+6. [A report on how terrorists activities in Europe are funded. Surprisingly, most of them are not helped financially by external sources but self funded instead](http://www.ffi.no/no/Rapporter/14-02234.pdf)
