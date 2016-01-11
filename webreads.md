@@ -19,3 +19,5 @@ Collection of important essays that contain useful ideas. These are largely long
 5. [Slow but heartening progress in improving the Strategies for Engineered Negligible Senescence(SENS)](https://www.fightaging.org/archives/2015/12/a-look-back-at-2015-in-longevity-science.php)
 
 6. [A report on how terrorists activities in Europe are funded. Surprisingly, most of them are not helped financially by external sources but self funded instead](http://www.ffi.no/no/Rapporter/14-02234.pdf)
+
+7. [Review discussing Meditation's benefits in inducing sleep and its positive effects towards related phsyiological states like enhancement of melatonin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/) 
