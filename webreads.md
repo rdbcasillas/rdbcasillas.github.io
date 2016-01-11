@@ -13,3 +13,7 @@ Collection of important essays that contain useful ideas. These are largely long
 2. [Why managing your emotional state is fundamental to great design](http://deep.design/design-like-an-astronaut/)
 
 3. [Why USA needs to honestly identify and highlight different forms of immigration in order to create effective policies](http://www.theatlantic.com/politics/archive/2015/12/refugees/419976/)
+
+4. [Genetic pleiotropy may explain the positive association between high physical activity and mortality. Inheritance of healthy phenotype could be the primary cause for observing longevity, not fitness attitude after maturity](http://www.nature.com/articles/srep18259)
+
+5. [Slow but heartening progress in improving the Strategies for Engineered Negligible Senescence(SENS)](https://www.fightaging.org/archives/2015/12/a-look-back-at-2015-in-longevity-science.php)
