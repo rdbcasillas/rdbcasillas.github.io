@@ -17,3 +17,5 @@ Collection of important readings on the web that contain useful ideas. These are
 * [Review discussing Meditation's benefits in inducing sleep and its positive effects towards related phsyiological states like enhancement of melatonin.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/) 
 * [Interview of the author of "Why Most Published Research Findings are False" where he shares some ideas on fixing the broken scientific publication.](http://www.vox.com/2015/2/16/8034143/john-ioannidis-interview)
 * [Why our kind can't cooperate. On why rationalists need to coordinate better.](http://lesswrong.com/lw/3h/why_our_kind_cant_cooperate/)
+* [A short story about a mysterious group called Cicada 3301 and how it tries to lure in some of the best minds](http://www.rollingstone.com/culture/features/cicada-solving-the-webs-deepest-mystery-20150115)
+* [Life is Short. So prune bs and don't wait on things that matter.](paulgraham.com/vb.html)
