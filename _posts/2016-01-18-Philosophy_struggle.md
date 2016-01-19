@@ -26,12 +26,14 @@ On a related note, I have a speculation to make. I think that this treatment of 
 There is also concern over lack of diversity(in terms of women and minority) in western institutes. [Eugene Sun Park wrote a rant on why she left Academia](http://read.hipporeads.com/why-i-left-academia-philosophys-homogeneity-needs-rethinking/) which highlights some of the problem that might be contributing to apathy towards this field. I quote here a large paragraph from her article because I think all of it is important for the context:
 
 >As I discovered over the course of my graduate career, in order to be taken seriously in the discipline, and to have any hope of landing a tenure-track job, one must write a dissertation in one of the “core areas” of philosophy. What are these core areas? Philosophers quibble about how exactly to slice up the philosophical pie, but generally the divisions look something like this:
-*Metaphysics & Epistemology
+
+>*Metaphysics & Epistemology
 *Logic & Philosophy of Language
 *Philosophy of Mind
 *Value Theory
 *History
-Such is the menu of choices available to the philosopher-in-training today. (See, for example, the PhD requirements at these prominent philosophy departments: Penn, Berkeley, and Duke.) On the surface, this might look like a wide range of options. But appearances are deceiving. For instance, the subfield of philosophy of mind does not typically engage at all with Indian, East Asian, African, or Native American ideas about the nature of mind. It’s as if non-Western thinkers had nothing to say about the matter. Similarly, those who work in the history of philosophy work almost exclusively on the history of Western philosophy—e.g., Plato, Aristotle, Descartes, Hume, Kant, Hegel, Russell, Wittgenstein, etc.
+
+>Such is the menu of choices available to the philosopher-in-training today. (See, for example, the PhD requirements at these prominent philosophy departments: Penn, Berkeley, and Duke.) On the surface, this might look like a wide range of options. But appearances are deceiving. For instance, the subfield of philosophy of mind does not typically engage at all with Indian, East Asian, African, or Native American ideas about the nature of mind. It’s as if non-Western thinkers had nothing to say about the matter. Similarly, those who work in the history of philosophy work almost exclusively on the history of Western philosophy—e.g., Plato, Aristotle, Descartes, Hume, Kant, Hegel, Russell, Wittgenstein, etc.
 
 Although I do disagree with her reasons for why such is the case(she thinks its racism). 
 
