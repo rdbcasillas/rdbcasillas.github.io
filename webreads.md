@@ -4,7 +4,7 @@ title: Webreads
 ---
 
 
-Collection of important readings on the web that contain useful ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts) that I come across while exploring a topic of interest. 
+Collection of important readings on the web that contain useful ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while exploring a topic of interest. 
 
 ####January 2016
 
@@ -19,3 +19,4 @@ Collection of important readings on the web that contain useful ideas. These are
 * [Why our kind can't cooperate. On why rationalists need to coordinate better.](http://lesswrong.com/lw/3h/why_our_kind_cant_cooperate/)
 * [A short story about a mysterious group called Cicada 3301 and how it tries to lure in some of the best minds](http://www.rollingstone.com/culture/features/cicada-solving-the-webs-deepest-mystery-20150115)
 * [Life is Short. So prune bs and don't wait on things that matter.](paulgraham.com/vb.html)
+* [DanielBMarkham's reply to AskHN: What were your naivetés in your twenties?]()
