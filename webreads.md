@@ -6,17 +6,27 @@ title: Webreads
 
 Collection of important readings on the web that contain useful ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while exploring a topic of interest. 
 
-####January 2016
+###January 2016
 
-* [A hypothesis on what forces are aggravating the fragmentation of our cultures.](http://paulgraham.com/re.html)
-* [Why managing your emotional state is fundamental to great design.](http://deep.design/design-like-an-astronaut/)
-* [Why USA needs to honestly identify and highlight different forms of immigration in order to create effective policies.](http://www.theatlantic.com/politics/archive/2015/12/refugees/419976/)
-* [Genetic pleiotropy may explain the positive association between high physical activity and mortality. Inheritance of healthy phenotype could be the primary cause for observing longevity, not fitness attitude after maturity.](http://www.nature.com/articles/srep18259)
-* [Slow but heartening progress in improving the Strategies for Engineered Negligible Senescence(SENS).](https://www.fightaging.org/archives/2015/12/a-look-back-at-2015-in-longevity-science.php)
-* [A report on how terrorists activities in Europe are funded. Surprisingly, most of them are not helped financially by external sources but self funded instead.](http://www.ffi.no/no/Rapporter/14-02234.pdf)
-* [Review discussing Meditation's benefits in inducing sleep and its positive effects towards related phsyiological states like enhancement of melatonin.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/) 
-* [Interview of the author of "Why Most Published Research Findings are False" where he shares some ideas on fixing the broken scientific publication.](http://www.vox.com/2015/2/16/8034143/john-ioannidis-interview)
-* [Why our kind can't cooperate. On why rationalists need to coordinate better.](http://lesswrong.com/lw/3h/why_our_kind_cant_cooperate/)
-* [A short story about a mysterious group called Cicada 3301 and how it tries to lure in some of the best minds](http://www.rollingstone.com/culture/features/cicada-solving-the-webs-deepest-mystery-20150115)
-* [Life is Short. So prune bs and don't wait on things that matter.](paulgraham.com/vb.html)
-* [DanielBMarkham's reply to AskHN: What were your naivetés in your twenties?]()
+####Sociology
+  * [A hypothesis on what forces are aggravating the fragmentation of our cultures.](http://paulgraham.com/re.html)
+  * [Interview of the author of "Why Most Published Research Findings are False" where he shares some ideas on fixing the broken scientific publication.](http://www.vox.com/2015/2/16/8034143/john-ioannidis-interview)
+
+####Psychology
+  * [Why managing your emotional state is fundamental to great design.](http://deep.design/design-like-an-astronaut/)
+  * [Why our kind can't cooperate. On why rationalists need to coordinate better.](http://lesswrong.com/lw/3h/why_our_kind_cant_cooperate/)
+  * [Seneca's inspiritational essay "On the Shortness of Life"](http://www.edbatista.com/files/2013/Seneca-On-the-Shortness-of-Life-Excerpts.pdf)
+
+####Politics
+  * [Why USA needs to honestly identify and highlight different forms of immigration in order to create effective policies.](http://www.theatlantic.com/politics/archive/2015/12/refugees/419976/)
+  * [A report on how terrorists activities in Europe are funded. Surprisingly, most of them are not helped financially by external sources but self funded instead.](http://www.ffi.no/no/Rapporter/14-02234.pdf)
+  * [A short story about a mysterious group called Cicada 3301 and how it tries to lure in some of the best minds](http://www.rollingstone.com/culture/features/cicada-solving-the-webs-deepest-mystery-20150115)
+
+####Biology
+  * [Genetic pleiotropy may explain the positive association between high physical activity and mortality. Inheritance of healthy phenotype could be the primary cause for observing longevity, not fitness attitude after maturity.](http://www.nature.com/articles/srep18259)
+  * [Slow but heartening progress in improving the Strategies for Engineered Negligible Senescence(SENS).](https://www.fightaging.org/archives/2015/12/a-look-back-at-2015-in-longevity-science.php)
+  * [A review discussing Meditation's benefits in inducing sleep and its positive effects towards related phsyiological states like enhancement of melatonin.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/)
+  
+####Miscellaneous
+  * [Life is Short. So prune bs and don't wait on things that matter.](paulgraham.com/vb.html)
+  * [DanielBMarkham's reply to AskHN: What were your naivetés in your twenties?](https://news.ycombinator.com/item?id=1474454)

@@ -11,7 +11,7 @@ Occasionally, I may try my hand at fictional  writing. But it will still contain
 This site will also hopefully become a learning ground for prospective bioinformaticians. I am on my way to become one and its clear to me that there isn't going to be over saturation when it comes to places that cover this field in their unique ways. Bioinformatics is complicated and frustrating. Its <u>[supposed to be](http://xkcd.com/1605/)</u>. Anyone hoping to get involved in it needs all the help that they can get in understanding some of the basics. I hope to provide my two cents in reducing some of the frustration by covering a few basics in the domain of the field I will be involved in at anytime. The content I plan to cover will hopefully resemble the kind of content I wish was readily available when I initially started digging through the internet in order to grasp some simpler concepts in this field. 
 
 ####What do you mean  "Unwronging Instincts"?
-Most of the thoughts that I usually think of highlight human fallibility. Its important for me personally to be aware of such flaws and then find solutions to rectify them. So one can argue that with these writings I am gradually trying to unwrong my instincts towards different topics.
+Most of the thoughts that I usually think of highlight some form of human fallibility. Its important for me personally to be aware of such flaws and then find solutions to rectify them. So one can argue that with these writings I am gradually trying to unwrong(yeah, I know that's not a word) my instincts.
 
 
 
