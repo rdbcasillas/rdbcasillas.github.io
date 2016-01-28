@@ -27,6 +27,8 @@ Collection of important readings on the web that contain useful ideas. These are
   * [Slow but heartening progress in improving the Strategies for Engineered Negligible Senescence(SENS).](https://www.fightaging.org/archives/2015/12/a-look-back-at-2015-in-longevity-science.php)
   * [A review discussing Meditation's benefits in inducing sleep and its positive effects towards related phsyiological states like enhancement of melatonin.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/)
   
-####Miscellaneous
+####Education(not in the traditional sense)
   * [Life is Short. So prune bs and don't wait on things that matter.](paulgraham.com/vb.html)
+  * [An argument on why people should stop being so afraid about being average.](http://markmanson.net/being-average)
   * [DanielBMarkham's reply to AskHN: What were your naivetés in your twenties?](https://news.ycombinator.com/item?id=1474454)
+  * [Marvin Minsky explores kids' aversion to Maths and offers changes to the system](http://web.media.mit.edu/~minsky/OLPC-1.html)
