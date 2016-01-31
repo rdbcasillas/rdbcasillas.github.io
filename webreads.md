@@ -32,3 +32,4 @@ Collection of important readings on the web that contain useful ideas. These are
   * [An argument on why people should stop being so afraid about being average.](http://markmanson.net/being-average)
   * [DanielBMarkham's reply to AskHN: What were your naivetés in your twenties?](https://news.ycombinator.com/item?id=1474454)
   * [Marvin Minsky explores kids' aversion to Maths and offers changes to the system](http://web.media.mit.edu/~minsky/OLPC-1.html)
+  * [Richard Hamming's popular speech "You and Your Research"](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
