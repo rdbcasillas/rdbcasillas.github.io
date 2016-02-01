@@ -21,7 +21,7 @@ Collection of important readings on the web that contain useful ideas. These are
   * [Why USA needs to honestly identify and highlight different forms of immigration in order to create effective policies.](http://www.theatlantic.com/politics/archive/2015/12/refugees/419976/)
   * [A report on how terrorists activities in Europe are funded. Surprisingly, most of them are not helped financially by external sources but self funded instead.](http://www.ffi.no/no/Rapporter/14-02234.pdf)
   * [A short story about a mysterious group called Cicada 3301 and how it tries to lure in some of the best minds](http://www.rollingstone.com/culture/features/cicada-solving-the-webs-deepest-mystery-20150115)
-  * The Rise and Fall of Silk Road[Part1](http://www.wired.com/2015/04/silk-road-1/)[Part2](http://www.wired.com/2015/05/silk-road-2/)
+  * [The Rise and Fall of Silk Road, Part1](http://www.wired.com/2015/04/silk-road-1/) | [Part2](http://www.wired.com/2015/05/silk-road-2/)
   
 ####Biology
   * [Genetic pleiotropy may explain the positive association between high physical activity and mortality. Inheritance of healthy phenotype could be the primary cause for observing longevity, not fitness attitude after maturity.](http://www.nature.com/articles/srep18259)
