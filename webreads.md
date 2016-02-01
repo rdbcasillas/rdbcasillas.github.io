@@ -4,7 +4,7 @@ title: Webreads
 ---
 
 
-Collection of important readings on the web that contain useful and interesting ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while surfing the web casually or with a purpose. 
+Collection of important readings on the web that contain useful and interesting ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while surfing the web casually or with a purpose. The categories I list below will probably change every month depending on the content I come across. Since some of these articles can fall into multiple categories, I am throwing them in one section based on my initial reaction and thoughts after reading it, instead of ruminating about it.
 
 ###January 2016
 
@@ -17,6 +17,7 @@ Collection of important readings on the web that contain useful and interesting 
   * [Why managing your emotional state is fundamental to great design.](http://deep.design/design-like-an-astronaut/)
   * [Why our kind can't cooperate. On why rationalists need to coordinate better.](http://lesswrong.com/lw/3h/why_our_kind_cant_cooperate/)
   * [Seneca's inspiritational essay "On the Shortness of Life"](http://www.edbatista.com/files/2013/Seneca-On-the-Shortness-of-Life-Excerpts.pdf)
+  * [Why people need to stop being so afraid of being average.](http://markmanson.net/being-average)
 
 ####Politics
   * [Why USA needs to honestly identify and highlight different forms of immigration in order to create effective policies.](http://www.theatlantic.com/politics/archive/2015/12/refugees/419976/)
@@ -32,7 +33,6 @@ Collection of important readings on the web that contain useful and interesting 
   
 ####Education(not in the traditional sense)
   * [Life is Short. So prune bs and don't wait on things that matter.](paulgraham.com/vb.html)
-  * [An argument on why people should stop being so afraid about being average.](http://markmanson.net/being-average)
   * [DanielBMarkham's reply to AskHN: What were your naivetés in your twenties?](https://news.ycombinator.com/item?id=1474454)
   * [Marvin Minsky explores kids' aversion to Maths and offers changes to the system](http://web.media.mit.edu/~minsky/OLPC-1.html)
   * [Richard Hamming's popular speech "You and Your Research"](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
