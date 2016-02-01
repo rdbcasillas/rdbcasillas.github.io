@@ -4,13 +4,14 @@ title: Webreads
 ---
 
 
-Collection of important readings on the web that contain useful ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while exploring a topic of interest. 
+Collection of important readings on the web that contain useful and interesting ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while surfing the web casually or with a purpose. 
 
 ###January 2016
 
 ####Sociology
   * [A hypothesis on what forces are aggravating the fragmentation of our cultures.](http://paulgraham.com/re.html)
   * [Interview of the author of "Why Most Published Research Findings are False" where he shares some ideas on fixing the broken scientific publication.](http://www.vox.com/2015/2/16/8034143/john-ioannidis-interview)
+  * [How removal of constraints could drastically change human nature](http://kajsotala.fi/2012/10/technology-will-destroy-human-nature/)
 
 ####Psychology
   * [Why managing your emotional state is fundamental to great design.](http://deep.design/design-like-an-astronaut/)
@@ -27,6 +28,7 @@ Collection of important readings on the web that contain useful ideas. These are
   * [Genetic pleiotropy may explain the positive association between high physical activity and mortality. Inheritance of healthy phenotype could be the primary cause for observing longevity, not fitness attitude after maturity.](http://www.nature.com/articles/srep18259)
   * [Slow but heartening progress in improving the Strategies for Engineered Negligible Senescence(SENS).](https://www.fightaging.org/archives/2015/12/a-look-back-at-2015-in-longevity-science.php)
   * [A review discussing Meditation's benefits in inducing sleep and its positive effects towards related phsyiological states like enhancement of melatonin.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/)
+  * [A summary of theories behind variations in sleep patterns among animals](http://classic.sciencemag.org/content/337/6102/1610.long)
   
 ####Education(not in the traditional sense)
   * [Life is Short. So prune bs and don't wait on things that matter.](paulgraham.com/vb.html)
