@@ -6,6 +6,14 @@ title: Webreads
 
 Collection of important readings on the web that contain useful and interesting ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while surfing the web casually or with a purpose. The categories I list below will probably change every month depending on the content I come across. Since some of these articles can fall into multiple categories, I am throwing them in one section based on my initial reaction and thoughts after reading it, instead of ruminating about it.
 
+###Febraury 2016
+
+####Sociology
+  * [Why were people addicted to Farmville? Similar ideas would apply to all kinds of "boring" sports like cricket, golf, american football etc.](http://www.businessinsider.com/the-cleverest-explanation-as-to-why-zynga-is-a-multi-billion-company-you-will-ever-read-2010-4?IR=T)
+  
+####Biology
+  * [Fasting triggers stem cell regeneration](https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/)  | [Diet that mimicks fasting playing a role in slowing aging](https://news.usc.edu/82959/diet-that-mimics-fasting-appears-to-slow-aging/)
+  
 ###January 2016
 
 ####Sociology
