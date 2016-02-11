@@ -14,6 +14,7 @@ Collection of important readings on the web that contain useful and interesting 
   
 ####Psychology
   * [Research into psychedelics has resurfaced and its giving fruition to exciting positive outcomes](http://www.newyorker.com/magazine/2015/02/09/trip-treatment)
+  * [In what ways does love resemble an addiction of a drug? Discusses both behavioral and physiological correlations.](http://nautil.us/issue/33/attraction/love-is-like-cocaine) 
   
 ####Biology
   * [Fasting triggers stem cell regeneration](https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/)  | [Diet that mimicks fasting playing a role in slowing aging](https://news.usc.edu/82959/diet-that-mimics-fasting-appears-to-slow-aging/)
