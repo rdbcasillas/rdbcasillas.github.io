@@ -11,6 +11,7 @@ Collection of important readings on the web that contain useful and interesting 
 
 ####Sociology
   * [Why were people addicted to Farmville? Similar ideas would apply to all kinds of "boring" sports like cricket, golf, american football etc.](http://www.businessinsider.com/the-cleverest-explanation-as-to-why-zynga-is-a-multi-billion-company-you-will-ever-read-2010-4?IR=T)
+  * [How Sci-Hub is liberating millions of research papers from the walled garden of academic journals](http://bigthink.com/neurobonkers/a-pirate-bay-for-science)
   
 ####Psychology
   * [Research into psychedelics has resurfaced and its giving fruition to exciting positive outcomes](http://www.newyorker.com/magazine/2015/02/09/trip-treatment)
@@ -19,7 +20,8 @@ Collection of important readings on the web that contain useful and interesting 
 ####Biology
   * [Fasting triggers stem cell regeneration](https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/)  | [Diet that mimicks fasting playing a role in slowing aging](https://news.usc.edu/82959/diet-that-mimics-fasting-appears-to-slow-aging/)
   
-
+####Technology
+  * [Tricks that designers of virtual reality use to deceive the human mind](http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real)
 
 
 ###January 2016
