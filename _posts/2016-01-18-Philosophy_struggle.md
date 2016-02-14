@@ -4,7 +4,7 @@ title: "On why Philosophy is struggling and what could provide succour"
 
 ---
 
-I read an [article that laments](http://mobile.nytimes.com/blogs/opinionator/2016/01/11/when-philosophy-lost-its-way/) about how the field of Philosophy is losing its way. What the authors argue(this argument and others are also in their upcoming book) is that by its delimitation to the academic settings, Philosophy has lost its original purpose which was to explore and communicate to public how to live a good life and how to be virtuous. But they say that the institutionalization of Philosophy created a quandary on the purpose of a Philosopher. They explain:
+I read an <u>[article that laments](http://mobile.nytimes.com/blogs/opinionator/2016/01/11/when-philosophy-lost-its-way/)</u> about how the field of Philosophy is losing its way. What the authors argue(this argument and others are also in their upcoming book) is that by its delimitation to the academic settings, Philosophy has lost its original purpose which was to explore and communicate to public how to live a good life and how to be virtuous. But they say that the institutionalization of Philosophy created a quandary on the purpose of a Philosopher. They explain:
 
 >This was the act of purification that gave birth to the concept of philosophy most of us know today. As a result, and to a degree rarely acknowledged, the institutional imperative of the university has come to drive the theoretical agenda. If philosophy was going to have a secure place in the academy, it needed its own discrete domain, its own arcane language, its own standards of success and its own specialized concerns.
 
@@ -25,7 +25,7 @@ So I argue that the shift towards acceptance of Philosophy as an entertaining su
 >people stop listening when philosophers only debate amongst themselves.
 
 
-There is also a genuine concern over lack of diversity(in terms of women and minority) in Western institutes. [Eugene Sun Park wrote a rant on why she left Academia](http://read.hipporeads.com/why-i-left-academia-philosophys-homogeneity-needs-rethinking/) which highlights some of the problem that might play a role in contributing towards an apathy towards this field. I quote here a large paragraph from her article because I think all of it is important for the context:
+There is also a genuine concern over lack of diversity(in terms of women and minority) in Western institutes. <u>[Eugene Sun Park wrote a rant on why she left Academia](http://read.hipporeads.com/why-i-left-academia-philosophys-homogeneity-needs-rethinking/)</u> which highlights some of the problem that might play a role in contributing towards an apathy towards this field. I quote here a large paragraph from her article because I think all of it is important for the context:
 
 >As I discovered over the course of my graduate career, in order to be taken seriously in the discipline, and to have any hope of landing a tenure-track job, one must write a dissertation in one of the “core areas” of philosophy. What are these core areas? Philosophers quibble about how exactly to slice up the philosophical pie, but generally the divisions look something like this:
 
