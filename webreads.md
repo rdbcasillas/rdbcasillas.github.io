@@ -22,7 +22,7 @@ Collection of important readings on the web that contain useful and interesting 
   
 ####Technology
   * [Tricks that designers of virtual reality use to deceive the human mind](http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real)  
-
+  * [Bloom Filters, how do they work and what are they used for?](https://www.jasondavies.com/bloomfilter/) | [Alternative explanation](http://billmill.org/bloomfilter-tutorial/)
 
 <br />
 
