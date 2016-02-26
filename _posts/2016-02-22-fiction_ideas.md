@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recreating snapshots of past using "transhuman memory"
+title: 'Recreating snapshots of past using "transhuman memory"'
 
 ---
 
