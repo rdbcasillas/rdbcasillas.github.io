@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "A post cataloging science fictiony ideas"
+title: "Recreating snapshots of past using "transhuman memory"
 
 ---
 
-
-###Recreating snapshots of past using "transhuman memory"
 
 The following idea assumes that we have solved the [Hard Problem of Concsciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness) X years from now where I predict that X lies somewhere between 50 and 80 years. But even if this prediction comes out to be true, I still feel its one of those science fiction ideas that has very low probability of turning into reality. My understanding of how memory works is negligible and I will shamelessly make embarrassing assumptions along the way which would be easily discarded by some neuroscientist. But its fun to think about so here it goes.
 
