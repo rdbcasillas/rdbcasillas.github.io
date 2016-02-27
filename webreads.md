@@ -13,6 +13,7 @@ Collection of important readings on the web that contain useful and interesting 
   * [Why were people addicted to Farmville? Similar ideas would apply to all kinds of "boring" sports like cricket, golf, american football etc.](http://www.businessinsider.com/the-cleverest-explanation-as-to-why-zynga-is-a-multi-billion-company-you-will-ever-read-2010-4?IR=T)
   * [How Sci-Hub is liberating millions of research papers from the walled garden of academic journals](http://bigthink.com/neurobonkers/a-pirate-bay-for-science)
   * [Incomplete but interesting ideas on existence of Minimum viable super-organims](http://www.ribbonfarm.com/2016/02/11/minimum-viable-superorganism/)
+  * [Set of ideas on fixing the broken system of publishing in academia](http://bjoern.brembs.net/2015/09/many-symptoms-one-disease/)
   
 ####Psychology
   * [Research into psychedelics has resurfaced and its giving fruition to exciting positive outcomes](http://www.newyorker.com/magazine/2015/02/09/trip-treatment)
