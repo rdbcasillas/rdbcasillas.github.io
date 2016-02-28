@@ -14,7 +14,7 @@ Collection of important readings on the web that contain useful and interesting 
   * [How Sci-Hub is liberating millions of research papers from the walled garden of academic journals](http://bigthink.com/neurobonkers/a-pirate-bay-for-science)
   * [Incomplete but interesting ideas on existence of Minimum viable super-organims](http://www.ribbonfarm.com/2016/02/11/minimum-viable-superorganism/)
   * [Set of ideas on fixing the broken system of publishing in academia](http://bjoern.brembs.net/2015/09/many-symptoms-one-disease/)
-  
+  * [Good explanation for people confused about privacy in the latest Apple vs FBI case](https://danielmiessler.com/blog/my-response-to-sam-harris-on-the-apple-encryption-debate/?fb_ref=392e785b2759474cbea33cc492bed0d2-Twitter)
 ####Psychology
   * [Research into psychedelics has resurfaced and its giving fruition to exciting positive outcomes](http://www.newyorker.com/magazine/2015/02/09/trip-treatment)
   * [In what ways does love resemble an addiction of a drug? Discusses both behavioral and physiological correlations.](http://nautil.us/issue/33/attraction/love-is-like-cocaine) 
