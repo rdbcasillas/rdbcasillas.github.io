@@ -15,6 +15,7 @@ Collection of important readings on the web that contain useful and interesting 
   * [Incomplete but interesting ideas on existence of Minimum viable super-organims](http://www.ribbonfarm.com/2016/02/11/minimum-viable-superorganism/)
   * [Set of ideas on fixing the broken system of publishing in academia](http://bjoern.brembs.net/2015/09/many-symptoms-one-disease/)
   * [Good explanation for people confused about privacy in the latest Apple vs FBI case](https://danielmiessler.com/blog/my-response-to-sam-harris-on-the-apple-encryption-debate/?fb_ref=392e785b2759474cbea33cc492bed0d2-Twitter)
+  
 ####Psychology
   * [Research into psychedelics has resurfaced and its giving fruition to exciting positive outcomes](http://www.newyorker.com/magazine/2015/02/09/trip-treatment)
   * [In what ways does love resemble an addiction of a drug? Discusses both behavioral and physiological correlations.](http://nautil.us/issue/33/attraction/love-is-like-cocaine) 
@@ -26,6 +27,13 @@ Collection of important readings on the web that contain useful and interesting 
   * [Tricks that designers of virtual reality use to deceive the human mind](http://nautil.us/issue/32/space/these-tricks-make-virtual-reality-feel-real)  
   * [Bloom Filters, how do they work and what are they used for?](https://www.jasondavies.com/bloomfilter/) | [Alternative explanation](http://billmill.org/bloomfilter-tutorial/)
 
+####Economics
+ * [Workings behind VC investments and how Open Source helps bringing in $$$$](http://words.steveklabnik.com/is-npm-worth-26mm)
+ 
+####Literature
+ * [Biases Of Fiction, useful lessons for fiction writers](http://www.overcomingbias.com/2012/12/biases-of-fiction.html)
+
+ 
 <br />
 
 ===============================================================
