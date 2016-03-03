@@ -11,6 +11,7 @@ Collection of important readings on the web that contain useful and interesting 
 
 ####Sociology
   * [Thoughts on how Milwaukee's(and other American cities') eviction problem exacerbates the poverty and segregation](http://www.theatlantic.com/business/archive/2016/03/eviction-matthew-desmond-housing/471375/) 
+  * [Accelerating Scientific Publication in Biology: Ideas on how to increase the speed at which Biological discoveries are made (applicable to other sciences too) ](http://biorxiv.org/content/biorxiv/early/2015/07/11/022368.full.pdf)
 
 ####Psychology
   * [Explanation of differences between different kinds of speech styles with a funny account of preparation for TED talk](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html)
