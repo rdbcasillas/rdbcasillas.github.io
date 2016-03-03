@@ -10,9 +10,11 @@ Collection of important readings on the web that contain useful and interesting 
 ###<em>March 2016</em>
 
 ####Sociology
+  * [Thoughts on how Milwaukee's(and other American cities') eviction problem exacerbates the poverty and segregation](http://www.theatlantic.com/business/archive/2016/03/eviction-matthew-desmond-housing/471375/) 
 
 ####Psychology
   * [Explanation of differences between different kinds of speech styles with a funny account of preparation for TED talk](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html)
+  * [HN user joslin01 nicely articulates the motivations behind one of our worsts of vices: stubbornness](https://news.ycombinator.com/item?id=11199280)
 
 ####Biology
 
