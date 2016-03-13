@@ -17,12 +17,17 @@ Collection of important readings on the web that contain useful and interesting 
 ####Psychology
   * [Explanation of differences between different kinds of speech styles with a funny account of preparation for TED talk](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html)
   * [HN user joslin01 nicely articulates the motivations behind one of our worsts of vices: stubbornness](https://news.ycombinator.com/item?id=11199280)
-  * [Why less wrong is anti-instrumental rationality? Provocative critique exploring why LW is ineffective](http://lesswrong.com/lw/2po/selfimprovement_or_shiny_distraction_why_less/)
+  * [Psychology wars continue with criticism of the Reproducibility project](http://datacolada.org/2016/03/03/47/)
+  
 
 ####Biology
-
+  * [Robert Triver's five blockbuster evolutionary theories](https://lareviewofbooks.org/review/five-blockbuster-evolutionary-insights-and-one-wild-life-on-robert-trivers/)
+  
 ####Bioinformatics
 
+####Rationality
+  * [How to have an opinion worth hearing](http://quillette.com/2016/03/03/how-to-have-an-opinion-worth-hearing/)
+  * [Why less wrong is anti-instrumental rationality? Provocative critique exploring why LW is ineffective](http://lesswrong.com/lw/2po/selfimprovement_or_shiny_distraction_why_less/)
 
 <br />
 
