@@ -13,15 +13,20 @@ Collection of important readings on the web that contain useful and interesting 
   * [Thoughts on how Milwaukee's(and other American cities') eviction problem exacerbates the poverty and segregation](http://www.theatlantic.com/business/archive/2016/03/eviction-matthew-desmond-housing/471375/) 
   * [Accelerating Scientific Publication in Biology: Ideas on how to increase the speed at which Biological discoveries are made (applicable to other sciences too) ](http://biorxiv.org/content/biorxiv/early/2015/07/11/022368.full.pdf)
   * [An argument for why ad-blocking isn't only ethical but also a moral obligation](http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/)
+  * [Interesting series of essays on how software is eating the world](http://breakingsmart.com/season-1/a-new-soft-technology/)
 
 ####Psychology
   * [Explanation of differences between different kinds of speech styles with a funny account of preparation for TED talk](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html)
   * [HN user joslin01 nicely articulates the motivations behind one of our worsts of vices: stubbornness](https://news.ycombinator.com/item?id=11199280)
   * [Psychology wars continue with criticism of the Reproducibility project](http://datacolada.org/2016/03/03/47/)
+  * [A critique of use of psychology to derive morality. Overcoming our intuitions can sometimes be counterproductive in guiding us towards ethical behaviors](http://www.nybooks.com/articles/2016/02/25/the-psychologists-take-power/)
+  * [Pinker and Haidt destroy the above criticism by poking holes in the arguments](http://www.nybooks.com/articles/2016/04/07/moral-psychology-an-exchange/)
+  
   
 
 ####Biology
   * [Robert Triver's five blockbuster evolutionary theories](https://lareviewofbooks.org/review/five-blockbuster-evolutionary-insights-and-one-wild-life-on-robert-trivers/)
+  * [Dissipative Adaptation: a new hypothesis on how life could emerge from atom's usage of external energy in an irreversible manner](http://nautil.us/issue/34/adaptation/how-do-you-say-life-in-physics) 
   
 ####Bioinformatics
 
