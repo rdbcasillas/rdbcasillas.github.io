@@ -13,7 +13,7 @@ Collection of important readings on the web that contain useful and interesting 
   * [Thoughts on how Milwaukee's(and other American cities') eviction problem exacerbates the poverty and segregation](http://www.theatlantic.com/business/archive/2016/03/eviction-matthew-desmond-housing/471375/) 
   * [Accelerating Scientific Publication in Biology: Ideas on how to increase the speed at which Biological discoveries are made (applicable to other sciences too) ](http://biorxiv.org/content/biorxiv/early/2015/07/11/022368.full.pdf)
   * [An argument for why ad-blocking isn't only ethical but also a moral obligation](http://blog.practicalethics.ox.ac.uk/2015/10/why-its-ok-to-block-ads/)
-  
+  * [Entertaining critique of the hiring process at large companies and startups](http://danluu.com/programmer-moneyball/) 
 
 ####Psychology
   * [Explanation of differences between different kinds of speech styles with a funny account of preparation for TED talk](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html)
