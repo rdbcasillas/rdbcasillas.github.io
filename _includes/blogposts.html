@@ -1,13 +1,9 @@
----
-layout: default
----
-
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Musings</h1>
 
   <ul class="post-list">
-    {% for post in site.categories.essays %}
+    {% for post in site.categories.blog %}
       <li>
       <span class="post-meta"> {{ post.date | date: "%B  %Y" }}</span><br>
         <h2>
