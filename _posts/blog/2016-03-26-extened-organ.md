@@ -1,11 +1,11 @@
 ---
 layout: post
 category: blog
-title: Cellphones are extended organs
+title: Our silicon based organs
 
 ---
 
-Mobile phones are part of ourselves. Almost like an extended organ. Proper
+Mobile phones seems to be part of our bodies. Almost like an extended organ. Proper
 functioning of this organ is obviously important to us but more interestingly its 
 important to emotional health people close to us. If it doesn't work for extended 
 period of time, our temporary unreachability induces fear in closed ones. If the 
