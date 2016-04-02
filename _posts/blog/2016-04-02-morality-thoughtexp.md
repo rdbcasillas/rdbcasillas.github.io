@@ -23,7 +23,7 @@ both the actors will very likely be happy with the act. The person can still say
 I know myself. I will never feel happy going against my values even though science 
 tells me otherwise". But the problem is that argument can be used by anyone who holds personal beliefs that he considers to be 
 morally superior than what science informs. Since it will always will be a matter probability,does it mean we all have to be 
-proficient in Bayesian thinking to be the most immoral?
+proficient in Bayesian thinking to be able to achieve maximum morality?
 
 Imagine that not 
 educating a female kid makes her dad and mom happy(still true in third world countries). But knowing what education can do to
