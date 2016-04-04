@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "A post cataloging science fictiony ideas"
+title: "Towards a better commenting system"
+category: essays
 
 ---
 
-
-##A Commenting system that filters bullshit and encourages a well reasoned and civilized discussion.
-
-####What is a civil conversation?
+###What is a civil conversation?
 We are a species that loves to communicate opinions and ideas. Opinions and ideas are a form of
 advertisement that market the audience about our personalities. Until the arrival of the internet,
 for most people(not businesses) the medium for these advertisements used to be face to face talk or
@@ -27,6 +25,7 @@ So after observing these behaviors over the past few years, it feels safe to ass
 of humanity, left on its own, is incapable of having civilized and rational discussions on public forums. This is more so when it comes to emotionally motivated conversations in domains like Politics, Religion or Surveillance/Privacy. These topics attract all kinds of biases and fallacies 
 that human mind can fall prey to. And none of this is very surprising when you consider the strong association of these beliefs to a person's identity. As I noted above, the most emotionally driven comments or ideas(that lack actual content) are [more likely to spread](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1528077). Hence I am interested in commenting systems that just by their usage help in motivating the users to [disagree properly](http://www.paulgraham.com/disagree.html). Lets first look at some solutions that have been offered in the past. 
 
+
 ###The well known problem of ranking comments
 The problem of ranking comments and encouraging healthy discourse is a fascinating one and companies involved in managing forums have been trying different techniques to make the system better. Back in 2009, [Reddit introduced the "best" option for sorting](http://www.redditblog.com/2009/10/reddits-new-comment-sorting-system.html) that overcame the problem of comments that would show up at the top largely because they were posted right after the story was posted. As Randall Munroe explains:
 
@@ -42,11 +41,21 @@ infected with(This is less applicable to threads discussing natural sciences and
 sciences a.k.a humanities). At this point though, complex ranking algorithms only work towards keeping a good mixture of old, new and popular comments at the top depending on factors like "time since main post", "user's karma", "upvotes/downvotes ratio" etc. Hacker News's(HN) ranking algorithm is one of the most complex that I have seen. These strategies obviously help the readers to witness the best comments(decided by the community) at the top but still doesn't address the issue of **encouraging** civil discourse. Since the HN audience is biased towards people with better sense of civility, the comments there aren't a good measure of the population of comments in general. But [it has been noted](https://news.ycombinator.com/item?id=4396747.) that the growth of HN has led to
 some degradation in quality as well and there are [plausible complaints](http://mjg59.dreamwidth.org/28232.html) about HN being an echo chamber too. But at least its run by people who welcome contructive criticism and are always [looking to improve the system](https://news.ycombinator.com/item?id=7605973).
 
-###Google's failed attempt
+
+###Google's failed attempt and arrival of Discourse
 In 2013, Youtube [tried to tackle spams and trolls](http://www.reelseo.com/youtube-comments-system-rolling/) and [failed miserably](http://www.pcmag.com/article2/0,2817,2427715,00.asp). They infamously started forcing people to have a Google+ account to be able to comment and this was at least superficially, argued as a measure to reduce the level of abuse or vulgarness in comments. But nothing changed for the better(in fact, the situation became worse) and they finally [decided to let go of it](http://www.theverge.com/2015/7/27/9047785/youtube-ditching-google-plus-requirement). 
 
+[Discourse](https://www.discourse.org/) is a most promising tool that is in the business of promoting healthy discourse. Their [Universal Rules of Civilized Discourse](http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/) highlight the major sources of contamination in a healthy online communication. Here is what they 
+aspire to achieve:
 
-Discourse is one of the most promising tool that is in the business of encouraging healthy discourse on interesting topics. Their [Universal Rules of Civilized Discourse](http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/) highlight the major sources of contamination in a healthy online communication. 
+>Our trust system means that the community builds a natural immune system to defend itself from trolls, bad actors, and spammers — and the most engaged community members can assist in the governance of their community. We put a trash can on every street corner with a simple, low-friction flagging system. Positive behaviors are encouraged through likes and badges. We gently, constantly educate members in a just-in-time manner on the universal rules of civilized discourse.
+
+
+Although they do a 
+decent job of encouraging healthy discussions and reminding users to [not be a dick](http://wilwheaton.net/2012/12/keep-calm-and-dont-be-a-dick/), there is nothing in the system itself that pushes the community to better understand the nature of a quality comment. A comment
+that either reflects pure curiosity, honest skepticism or just willingness to participate in a constructive way that adds to the knowledge base of the thread. Because of 
+ambiguities associated with the meaning of these traits, its super hard to create such programs. Discourse is definitely a step in the right direction albeit a small one.
+
 
 ###Proposed ideas
 
@@ -70,4 +79,4 @@ Contemplation or hypothesizing should obviously not come under this scrutiny and
 
 Another idea that we need to look into is tools that allow humans to write structured comments. This would mean that these tools will make it convenient for people to structure their comments in a more methodical way which will then allow these tools to better perform language processing. Hypotheses, anecdotes, facts etc. are much more easier to deduce once the user can either annotate their comments or use specific keywords to make annotation easier for algorithms. 
 
-Since advances in machine learning are unpredictable, its hard to predict how far we are from proper exectution of these ideas but there is no question that future comment systems will be monitored by AI that will teach and incentivize the members to engage in a rational civil discourse.  
+Since advances in machine learning are unpredictable, its hard to predict how far we are from proper exectution of these ideas but there is no question that future comment systems will be monitored by AI that will filter bullshit and incentivize the members to engage in a rational civil discourse.  
