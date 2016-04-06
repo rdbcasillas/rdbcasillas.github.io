@@ -6,19 +6,19 @@ category: essays
 ---
 
 ###What is a civil conversation?
-We are a species that loves to communicate opinions and ideas. Opinions and ideas are a form of
-advertisement that market the audience about our personalities. Until the arrival of the internet,
-for most people(not businesses) the medium for these advertisements used to be face to face talk or
+Humans love to communicate opinions and ideas. These communications are a form of
+advertisements that market the audience about our personalities. Until the arrival of the internet,
+for most people (not businesses) the primary medium for these advertisements used to be face to face talk or
 exchange of letters. Since the 1990s though, the marketing tools have transformed and the most
 popular ones today include sites like Twitter, Facebook, Reddit and other massive creators of
 information. Information in the form of opinions and feelings of people. A person sits behind a
-screen fearlessly and engages in conversations in a way like they never would in person. And that's why this is no harmless marketing. Our main motive isn't always to maximize profit by being diplomatic or kind in expressing our opinions. It often requires(mandates even) that we use aggressive language, make snarky comments by using ad hominems and troll the [other side](https://en.wikipedia.org/wiki/Tribalism). Why not just politely argue using the new meduim, you ask?
+screen fearlessly and engages in conversations in a way like they never would in person. And that's why this is no harmless marketing. Our main motive isn't always to maximize profit by being diplomatic or kind in expressing our opinions. It often requires (mandates even) that we use aggressive language, make snarky comments by using ad hominems and troll the [other side](https://en.wikipedia.org/wiki/Tribalism). Why not just politely argue using this new medium, you ask?
 Two reasons:
 
-1. There are no major consequences. Especially because the new medium allows one to stay anonymous. A ten year old can easily create hundreds of fake accounts to spam forums where he disagrees with the majority. But this is mostly true for people without a known identity. With easy trolling, even  trivial opinions by minutely famous people can be quickly turned into racist and offensive slurs. So no major consequences unless you happen to be remotely famous(this generalized statement isn't always
-true. Check [this poor lady's](http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html?_r=0) story). 
+1. There are no major consequences associated with the negative behavior. Especially because the new medium allows one to stay anonymous. A ten year old can easily create hundreds of fake accounts to spam forums where he disagrees with the majority. On the other hand,  with low cost associated with trolling, even trivial opinions by minutely famous people can be quickly turned into racist and offensive slurs. So no major consequences unless you happen to be remotely famous(this generalized statement isn't always
+true. Check [this poor lady's](http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html?_r=0) story and [this book](https://en.wikipedia.org/wiki/So_You've_Been_Publicly_Shamed) for more such crazy stories). 
 
-2. Its not catchy enough to spread like wildfire. Go to Youtube or Facebook and the most liked comments on a post will usually be shallow one liners that are either overly congratulatory or angry(depending on the mood of the majority towards that video). Sober and lengthy comments aren't sexy enough and they usually require more thinking. Not a good replicating virus because the content of its DNA is ineffective towards host's attention span. 
+2. Its not catchy enough to spread like wildfire. Go to Youtube or Facebook and the most liked comments on a post will usually be shallow one liners that are either overly congratulatory or passionately angry(depending on the mood of the majority towards that video). Sober and lengthy comments aren't sexy enough and they usually require more thinking. Not a good replicating virus because the content of its DNA is ineffective towards host's attention span. 
 
 
 So after observing these behaviors over the past few years, it feels safe to assume that the majority
