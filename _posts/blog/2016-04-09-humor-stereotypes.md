@@ -17,8 +17,7 @@ minor observations that good comics make and hope that people
 will relate to it. 
 
 What is implicit in making people laugh on
-not so common stereotypes or behaviors, is an advice for the  
-world. Its this - You are all noticing funny stuff around you all
+not so common stereotypes or behaviors, is an advice for the world. Its this - You are all noticing funny stuff around you all
 the time but you don't know that its funny until I tell you so. 
 You all are so busy taking life seriously (and hence boringly)
 , that you have become blind to the constant hilarity on this 
