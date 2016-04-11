@@ -22,8 +22,17 @@ true. Check [this poor lady's](http://www.nytimes.com/2015/02/15/magazine/how-on
 
 
 So after observing these behaviors over the past few years, it feels safe to assume that the majority
-of humanity, left on its own, is incapable of having civilized and rational discussions on public forums. This is more so when it comes to emotionally motivated conversations in domains like Politics, Religion or Surveillance/Privacy. These topics attract all kinds of biases and fallacies 
-that human mind can fall prey to. And none of this is very surprising when you consider the strong association of these beliefs to a person's identity. As I noted above, the most emotionally driven comments or ideas(that lack actual content) are [more likely to spread](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1528077). Hence I am interested in commenting systems that just by their usage help in motivating the users to [disagree properly](http://www.paulgraham.com/disagree.html). Lets first look at some solutions that have been offered in the past. 
+of humanity, left on its own, is simply incapable of having civilized and rational discussions on public forums. This is more so when it comes to emotionally motivated conversations in domains like Politics, Religion or Surveillance/Privacy. These topics are 
+honeypots for biases and fallacies that define human reasoning.
+Reasoning that [evolved to win arguments rather than finding the truth](http://blogs.discovermagazine.com/intersection/2011/04/25/is-reasoning-built-for-winning-arguments-rather-than-finding-truth/).
+
+And none of this is very surprising when you consider the strong association of these beliefs to a person's identity. If my beliefs define me, clinging on to them
+is just a survival instinct. This is one behavior that is 
+also [consistently observed in tribes or cults](http://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/). The reason why emotionally driven comments or ideas (that lack actual content) are [more likely to spread](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1528077), is because their content becomes irrelevant after
+a point and the strong association one feels with those ideas takes utmost importance. 
+
+
+Hence I am interested in commenting systems that just by their usage help in motivating the users to [disagree properly](http://www.paulgraham.com/disagree.html). Lets first look at some solutions that have been offered in the past. 
 
 
 ###The well known problem of ranking comments
