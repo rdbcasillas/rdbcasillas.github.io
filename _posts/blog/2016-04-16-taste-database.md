@@ -13,12 +13,12 @@ different gases and converting them in a digital format turned out to be trivial
 
 Applications include:
 
-    * Dealing with frustrations of not being able to consume expensive food that the brain 
-    originally associated the awesome smell with. Now you can just get all the similar smells 
-    and their respective foods which  makes it easier to find the cheapest food closest to 
-    the original expensive food. 
+* Dealing with frustrations of not being able to consume expensive food that the brain 
+  originally associated the awesome smell with? Now you can get all the similar smells 
+  and information of their respective foods which makes it easier to find the cheapest food 
+  closest to the original expensive food that you really crave. 
 
-    * Trying to lose weight but cannot disassociate awesome smells associated with fast food? smellDB
-    is here to help! Simply stream the smells associated with some of the disgusting foods while
-    consuming fast food. Or just stream fast food smells while consuming a plain salad to provide 
-    your brain with right feedback it needs while dieting. 
+* Trying to lose weight but cannot disassociate awesome smells associated with fast food? smellDB
+  is here to help! Simply stream the smells associated with some of the disgusting foods while
+  consuming fast food. Or just stream fast food smells while consuming a plain salad to provide 
+  your brain with right feedback it needs while dieting. 
