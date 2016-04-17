@@ -1,7 +1,7 @@
 ---
 layout: post
 category: blog
-title: Small though experiment exploring science's role in determining morality
+title: Small thought experiment exploring science's role in determining morality
 
 ---
 
