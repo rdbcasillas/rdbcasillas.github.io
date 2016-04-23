@@ -6,8 +6,7 @@ title: Seeking beauty in frozen trees
 ---
 
 Have been observing dead trees for past couple of weeks. Something beautiful in their plainness. The branches give an impression
-of intricate patterns in our lungs. Street lamps in   
-the background make the trees with hundreds of branches look 
+of intricate patterns in our lungs. Street lamps in the background make the trees with hundreds of branches look 
 like barbed wires. Unlike summer and Fall, the moon doesn't get 
 to hide behind them and instead produces a spectacular sight 
 especially if its passing a branch that happens to have a 
