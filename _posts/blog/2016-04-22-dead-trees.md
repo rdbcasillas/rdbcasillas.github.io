@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: musings
+title: "Seeking beauty in frozen trees"
 category: blog
-title: Seeking beauty in frozen trees
 
 ---
 
