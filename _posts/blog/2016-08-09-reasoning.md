@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Shaping reasoning against intentions of Evolution"
