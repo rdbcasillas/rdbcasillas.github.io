@@ -8,13 +8,16 @@ category: blog
 *Reasoning* has always been considered a cognitive activity that is characteristic of
 an intelligent mind. It seems to require an extra bit of effort. You think or hear an idea and your mind takes extra time to evaluate it.
 
+Here's how our dictionaries define it:
+>the action of thinking about something in a logical, sensible way.
+
 On the surface, its purpose is to take us closer to the truth. With its
 help, we either form a new hypothesis or support or destroy an existing one. Better
 ideas and better inventions come to light by excessive "reasoning". But is the 
 actual purpose of its existence *really* to take us closer to the truth? 
 
 [Argumentative theory](https://sites.google.com/site/hugomercier/theargumentativetheoryofreasoning) disagrees. According to it, reasoning evolved as a tool 
-to convince people of one's own arguments. You can even use it to resist convincing behavior. 
+to convince people of one's own arguments. and to resits convincing behavior. 
 Lawyers are the species that use this tool in its purest form.
 Argumentative theory nicely explains the numerous fallacies and biases that are long considered as 
 faults in our reasoning. Authors of the theory argue that these apparent flaws in
