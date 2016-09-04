@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can disbelief in free will make you a better person?"
+title: "Virtual ecosystems and their effect on humanity's fate"
 categories: essays
 
 ---
