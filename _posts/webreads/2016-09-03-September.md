@@ -12,14 +12,15 @@ categories: webreads
 ####Sociology
   * [How to tell a mother her child is dead](http://www.nytimes.com/2016/09/04/opinion/sunday/how-to-tell-a-mother-her-child-is-dead.html)
   * [Too late for the Pebbles to Vote: Understanding sociopaths and their effects on communities](https://status451.com/2016/08/09/too-late-for-the-pebbles-to-vote-part-1/)
+  * [My Distraction Sickness — and Yours](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html)
 
 ####Biology
   * [Ants destroy plants by nurturing perfect aphid colonies](http://arstechnica.com/science/2016/09/ants-are-destroying-your-plants-by-nurturing-perfect-aphid-colonies/)
 
-####Education
+####SelfHelp
   * [Arguman: Learning critical thinking using argument mapping](http://en.arguman.org/about)
-
-####Miscellaneous
+  * [Writing great documentation](https://jacobian.org/writing/great-documentation/)
+  * [Flexible self control](http://blog.beeminder.com/flexbind/)
   * [A comprehensive guide for meditation (includes walking and eating meditation)](http://www.nytimes.com/well/guides/how-to-meditate)
   * [Categorizing your essay as one of four types allows finishing it faster](http://www.downes.ca/post/38526)
 
