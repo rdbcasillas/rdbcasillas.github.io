@@ -11,7 +11,7 @@ The robot moves towards fire. It tries to touch the flame. Instantly, it retreat
 
 "It was not a good experience. I sense physical hurt."
 
-"What do you mean you *sense* it? Do you mean you *feel* it?"
+"What do you mean you _sense_ it? Do you mean you _feel_ it?"
 
 "You can call it that. I experienced a difference in my emotional state and that made me retreat."
 
