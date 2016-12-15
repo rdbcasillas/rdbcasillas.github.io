@@ -47,7 +47,7 @@ categories: blog
 
 "Yes! But you see, it just has to use the language to tell the story. It doesn't have to see anything in its conscious mind, if it has one. That's what I have been tryint to explain to you." Robot could sense increasing frustration in the human. But it wasn't coded to do anything to the conversation or its own argument based on that sense. 
 
-"I still don't see why do you need an actual perception in your so called 'conscious mind'. Why not just fabricate a story that tells this *self reflecting' part of your brain that something is being visualized. Isn't that much more simpler to do in terms of Evolution?"
+"I still don't see why do you need an actual perception in your so called 'conscious mind'. Why not just fabricate a story that tells this '*self reflecting*' part of your brain that something *is* being visualized. Isn't that much more simpler to do in terms of Evolution?"
 
 "That's interesting. So are you suggesting that the human mind is creating a story that involves me telling myself that I see something in my conscious mind?" 
 
