@@ -13,9 +13,4 @@ github_username:  rdbcasillas
 # plugins
 gems: [jekyll-twitter-plugin]
 
-
-# Build settings
-#markdown: redcarpet
-#redcarpet:
-#    extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "underline", "quote", "highlight"]
-
+permalink: none
