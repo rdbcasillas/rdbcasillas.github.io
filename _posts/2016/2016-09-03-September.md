@@ -1,7 +1,9 @@
 ---
 layout: links
 title: "September"
-categories: "2016"
+categories: 
+  - webreads 
+  - "2016"
 
 ---
 
