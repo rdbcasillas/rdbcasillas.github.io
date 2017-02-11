@@ -1,3 +1,10 @@
+---
+layout: post
+title: "A journey to understand how not to fool ourselves"
+categories: essays
+
+---
+
 We are largely a [stupid](http://www.realclearscience.com/blog/2016/09/the_basic_laws_of_human_stupidity.html) species. By design. We are not supposed to use commonsense very often. Its time consuming. When apparent dangerous situations arise (which lead to a flow of extreme emotions), its better to not think and go by instincts. Since we are a social species, our instincts are largely composed of tribal instincts. Nobody can deny that thinking with these instincts is a decent strategy when it comes to our survival in the wild. Given some hundred thousand years or so, it was the best Evolution could do. But as we have also learnt over the past few decades, this strategy is also very buggy when it comes to our modern "non-wildy" life. 
 
 This collective self loathing is inevitable once you glance over the field of Heuristics. Heuristics can be defined as algorithms that our brains use when making decisions. And what we understand now is that these algorithms are not designed to bring us closer to objective reality. They work just well enough to help us not die within few years of our existence (that's why natural selection selected them) but fall quite short when it comes to extracting the most useful information from our environment and correcting our own thinking processes. Somewhat ironically, the first set of people to understand these algorithms, were folks in the business of marketing and persuasion. They used this great knowledge extensively to manipulate their fellow humans into buying more stuff. 
