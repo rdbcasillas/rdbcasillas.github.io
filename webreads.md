@@ -5,6 +5,7 @@ weight: 9
 
 ---
 
-Collection of important readings on the web that contain useful and interesting ideas. These are largely long articles and occasionally journal papers(and less occasionally short blogposts or insightful comments) that I come across while surfing the web casually or with a purpose. The categories I list below will probably change every month depending on the content I come across. Since some of these articles can fall into multiple categories, I am throwing them in one section based on my initial reaction and thoughts after reading it, instead of ruminating about it.
+Monthly collection of readings discovered on the web that contain interesting ideas. These are usually long articles and/or journal papers (less occasionally short blogposts and insightful comments on forums). The categories that separate them are not consistent and may vary every month depending on the content I happen to
+land upon. Some of the content can fall into multiple categories but I am throwing them under one based on my immediate thoughts after finishing it, instead of ruminating.
 
 {% include webreadings.html %}
