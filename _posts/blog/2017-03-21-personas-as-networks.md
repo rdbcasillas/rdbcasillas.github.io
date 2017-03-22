@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Networks, "
+title: "Networks, Universe's favorite recurring pattern?"
 categories: blog
 
 ---
