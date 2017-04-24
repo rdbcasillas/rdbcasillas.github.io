@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Subreddits, a perfect manifestation of Superorganims"
+title: "Subreddits, a perfect manifestation of Superorganisms"
 categories: blog
 
 ---
