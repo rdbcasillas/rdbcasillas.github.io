@@ -7,12 +7,10 @@ category: essays
 
 ### What is a civil conversation?
 
-Humans love to communicate opinions and ideas. These communications are a form of
-advertisements that market the audience the nature of our personalities. Until the arrival of the internet,
-for most people (not businesses) the primary medium for these advertisements used to be face to face talk,
-exchange of letters or telephonic conversations. Since the 1990s though, the marketing tools have transformed and the most popular ones today include sites like Twitter, Facebook, Reddit and other massive creators of
-information. Information that is overwhelmingly in the form of opinions and feelings of people. A person sits behind a
-screen fearlessly and engages in conversations in a way like they never would in person. And that's why this is no harmless marketing. Our main motive isn't always to maximize profit by being diplomatic or kind in expressing our opinions. It often requires (mandates even) that we use aggressive language, make snarky comments by using ad hominems and troll the [other side](https://en.wikipedia.org/wiki/Tribalism). Why not just politely argue using this new medium, you ask?
+Humans love to communicate opinions and ideas. These communications are a form of an
+advertisement that broadcast the nature of our personalities. Until the arrival of the internet,
+for most people (except maybe businesses) the primary medium for these advertisements used to be in person conversations, hand written letters or telephonic systems. Since the 1990s, the marketing tools have transformed and the most popular ones today include sites like Twitter, Facebook and Reddit. These online ecosystems provide us a novel way to encounter opinions and feelings associated with an individual or a group. A tweeter or a redditor sits (or stands) behind a screen and engages in conversations in ways they never would in person. And that's why this is no harmless advertisement of ourselves. Our main motive isn't always to maximize profit by being diplomatic or kind in expressing our opinions. It often requires (mandates even) that we use aggressive language, make snarky comments by using ad hominems and troll the [other side](https://en.wikipedia.org/wiki/Tribalism). Why don't we just politely argue online, you ask?
+
 Two reasons:
 
 1. There are no major consequences associated with the negative behavior. Especially because the new medium allows one to stay anonymous. A ten year old can easily create hundreds of fake accounts to spam forums where he disagrees with the majority. On the other hand,  with low cost associated with trolling, even trivial opinions by minutely famous people can be quickly turned into racist and offensive slurs. So no major consequences unless you happen to be remotely famous(this generalized statement isn't always
