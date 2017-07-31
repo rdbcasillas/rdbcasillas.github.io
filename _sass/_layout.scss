@@ -11,15 +11,14 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 33px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+    color: #581ff7;
     &,
     &:visited {
-        color: $grey-color-dark;
     }
 }
 
