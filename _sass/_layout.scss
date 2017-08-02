@@ -33,11 +33,15 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        font-size: 18px;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
+    }
+    .page-link:hover {
+        color:#6558a2;
     }
 
     @include media-query($on-palm) {
@@ -170,7 +174,7 @@
 .page-heading {
     font-size: 20px;
     font-family: Times New Roman;
-    color: #4c37af;
+    color: #6558a2;
 }
 
 .post-list {
@@ -202,7 +206,7 @@
 }
 
 .post-title {
-    font-size: 24px;
+    font-size: 30px;
     letter-spacing: -1.3px;
     line-height: 1;
 

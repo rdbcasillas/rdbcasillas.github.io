@@ -8,10 +8,10 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 p {
-    color:#1d068c;
+    color:black;
 }
 h3 {
-    color: #1a0098;
+    color: #6558a2;
 }
 
 /**
@@ -85,6 +85,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    font-family: Futura;
 }
 
 
@@ -101,7 +102,7 @@ a {
     }
 
     &:hover {
-        color: $text-color;
+        color: #757dc5;
         text-decoration: underline;
     }
 }
