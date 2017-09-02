@@ -7,7 +7,7 @@ weight: 12
 
 Here I list the humans and their creations that have played some role in inspiring me on regular basis. Inspiring me to do what? Nothing tangible, yet. These works have helped me appreciate the capability of humans in creating something deep and beautiful. They have given me new lenses to see this world through and made it a more exciting place to live in. At different points in my life and to different degrees, they have left enough of an impact on my brain to make me feel that my current personality and ambitions were partially shaped by them(this could be totally wrong though). This is a personal list and it's always growing. The order in which these people/works appear is mostly random but Availability Bias is definitely playing a role.    
 
-### People
+### Intellects
 * **[Bret Victor](http://worrydream.com/)** - Created many inspirational visualizations and interactive essays to enhance learning and imagination.
   * [Favorite talk](https://vimeo.com/36579366)
   * [Favorite essay](http://worrydream.com/#!/LearnableProgramming)
@@ -37,6 +37,8 @@ Here I list the humans and their creations that have played some role in inspiri
 * [Melody AM](https://en.wikipedia.org/wiki/Melody_A.M.) & [The Understanding](https://en.wikipedia.org/wiki/The_Understanding) by Royksopp
 * [Rob Costlow](https://soundcloud.com/robcostlow)
 * [Halo 2 Volume 1: Original Soundtrack](https://www.youtube.com/watch?v=Pi1oZ6w3bo4)
+* [Trine Soundtrack by Ari Pulkkinen](https://www.youtube.com/watch?v=RkyhqPjVE0w)
+* [Donnie Darko soundtrack](https://www.youtube.com/watch?v=WlnuRtgqEx8)
 
 ### Videos
 * [Instruction Manual For Life](https://www.youtube.com/watch?v=kAIpRRZvnJg)
