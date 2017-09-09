@@ -21,3 +21,7 @@ So yes, gB could pause and reflect on what gA is really trying to do and not fee
 Not all expression of disagreements are some form of outrage, of course. And not all outrage is some form of bait. But that's not the point. The disagreements that are sophisticated and nuanced are usually drowned by a flood of shouting matches and name callings i.e. outrage. And this hampers our ability to have healthy conversations involving constructive criticisms. But unfortunately that is how the online ecosystem is designed to function in order to flourish and nurture itself. It doesn't give a f*!k about healthy conversations. 
 
 Next, we will explore a possible resemblence between the success of outrage phenotype on the internet with evolutionary success of human argumentation. 
+
+
+
+P.S. : Not ouraged enough with this post? Consider speculating that in the examples above, I am trying to equate "Islamic terrorists" and "Alt-right" on a moral scale. That should do it. 
