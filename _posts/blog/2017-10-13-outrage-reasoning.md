@@ -5,7 +5,7 @@ categories: blog
 
 ---
 
-In the last post, I explored how "outrage" is a useful "phenotype" for the growith of online ecosystems (like Twitter and Facebook) to become larger and more powerful. Before discussing the incentives in human thinking that accelerate this growth, I would like to sidestep a bit and briefly discuss the evolution of argumentation and reasoning. Why do we argue and what is the true purpose of the reasoning tecniques we use while arguing?
+In my [last post](http://vatsalmehra.com/blog/recursive-outrage.html), I explored how "outrage" is a useful "phenotype" for the growith of online ecosystems (like Twitter and Facebook) to become larger and more powerful. Before discussing the incentives in human thinking that accelerate this growth, I would like to sidestep a bit and briefly discuss the evolution of argumentation and reasoning. Why do we argue and what is the true purpose of the reasoning tecniques we use while arguing?
 
 Traditionally, human reasoning has been primarily associated with discovering the Truth. We reason and argue with one another because we want to bring ourselves nearer to the reality with regards to the point of contention. *Amit* and *Amy* are arguing whether it is unethical to legalise capital punishment. They are *throwing arguments* to convince each other that the belief they hold is correct. They genuinely believe that using these arguments has the potential to pull the opponent into their own side. But with the explosion of research in decision making since 1970's, it became clear that this isn't true. We are not the ever curious truth seeker that we thought we were. 
 
