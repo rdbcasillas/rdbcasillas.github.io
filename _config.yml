@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rdbcasillas.github.io" # the base hostname & protocol for your site
 twitter_username: rdbcasillas   
 github_username:  rdbcasillas   
+# Build settings
 
 # plugins
 gems: [jekyll-twitter-plugin]
