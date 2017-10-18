@@ -1,5 +1,9 @@
+---
+layout: post
+title:  "TIL always defeats TUD, can "writing TIL" attempt same?"
+categories: blog
 
-
+---
 Everyday I learn new things. This is not bragging. In fact, learning without discipline and a tangible goal in mind has been quite detrimental to my productivity all my life. But abandoning a [book on D3](https://www.manning.com/books/d3js-in-action-second-edition) to suddenly look up [*blue whale mate calling*](http://www.nytimes.com/2008/07/29/science/29whale.html) - as undisciplined as it may be - still qualifies as learning.
 
 But is learning new ideas or concepts everyday really that useful if I am not able to remember most of it? In one sense, it definitely is. It makes me better at researching (digging out signal from noise) and the act of learning itself. It increases the synaptic connections which increases the number of random (some insightful) ideas in my brain. But something still feels missing. I get a feeling that these intellectual travels should be recorded somewhere. I would like to know about the topics my brain thinking and exploring back in 2013.  How often am I coming back to similar genre of topics and learning exact same things? Which may give me some deep insights about my ~~*true calling*~~ genuine interests? Evernote etc. could potentially help in achieving that goal but actively engaging in a topic with writing definitely will make it stick better in my memory. 
