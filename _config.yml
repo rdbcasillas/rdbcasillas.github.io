@@ -12,6 +12,10 @@ github_username:  rdbcasillas
 # Build settings
 
 # plugins
-gems: [jekyll-twitter-plugin]
+plugins_dir: 
+    - jekyll-twitter-plugin
+
+markdown: kramdown
+highlighter: rouge
 
 permalink: none
