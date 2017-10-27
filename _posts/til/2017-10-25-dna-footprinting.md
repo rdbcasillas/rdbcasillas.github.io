@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "TIL about DNA footprinting."
+title: "TIL about DNA footprinting"
 categories: til
 
 ---

@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "TIL about Quota sampling and it's relationship with selection bias."
+title: "TIL about Quota sampling and it's relationship with selection bias"
 categories: til
 
 ---
