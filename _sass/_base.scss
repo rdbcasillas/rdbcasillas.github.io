@@ -20,6 +20,7 @@ h3 {
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
+    margin-right: $margin;
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
@@ -39,7 +40,9 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
+.page-content {
+    width: $content-width;
+}
 
 /**
  * Images
