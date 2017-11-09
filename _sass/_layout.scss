@@ -176,7 +176,15 @@
     font-family: Times New Roman;
     color: #6558a2;
 }
-
+.linktable td{
+    border: 1px dashed brown;
+    text-align:center; 
+    vertical-align:middle;
+	width: 150px;
+}
+.linktable a{
+    font-size: 23px;
+}
 .post-list {
     margin-left: 0;
     list-style: none;

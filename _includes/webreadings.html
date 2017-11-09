@@ -1,25 +1,16 @@
 <div class="home">
-
   <h1 class="page-heading">2017</h1>
-  <ul class="post-list">
-      {% for post in site.categories.2017 %}
-      <li>
-      <h2>
+      <table class="linktable">
+      {% tablerow post in site.categories.2017 reversed cols:3 %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      </li>
-      {% endfor %}
-  </ul>
-  -------------------------------------------------------------------------------------------------------------------------------------
+      {% endtablerow %}
+      </table>
+<br>
+----------------------------------------------------------------------------------------------------
   <h1 class="page-heading">2016</h1>
-  <ul class="post-list">
-    {% for post in site.categories.2016 %}
-      <li>
-        <h2>
+	<table class="linktable">
+      {% tablerow post in site.categories.2016 reversed cols:3 %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      {% endtablerow %}
+	</table>
 
-</div>
