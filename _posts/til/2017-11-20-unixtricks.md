@@ -32,7 +32,7 @@ chr10	77290910	77291119|Adarb1;Adarb1;Adarb1;Adarb1;Adarb1;Adarb1
 chr10	79892887	79893096|Bc1;Prtn3;Prtn3;Elane;Cfd;Cfd;Med16;Med16;Med16
 ```
 
-Notice the gene names after the "|" symbol. What if I wanted to capture all unique gene names in multiple files with hundreds of rows like this? Like this:
+Notice the gene names after the `|` symbol. What if I wanted to capture all unique gene names in multiple files with hundreds of rows like this? Like this:
 
 ```
 Lyg1
@@ -59,11 +59,11 @@ done
 
 That's it! Here's what happened:
 
-1. A *for* loop was executed over all the files that start with a particular string. The '*' is for all files in a directory that start with a particular string. 
-2. We start with the *cut* command and tell it to cut with "|" as the delimiter. This helps us use *-f2* because gene-list becomes the second column. If instead of "|", it was a tab character, we wouldn't have required *-d* argument and would have used -f4 (for 4th column). 
-3. $f is our input file. Since we used "f" as the variable to represent a file in our *for* loop, we simply add a dollar sign in front of it to access that file.
-4. The output from this first *cut* command goes into another command *tr* with the help from unix pipe. *tr* simply transforms your table. In this case, we wanted the genes in a single column instead of them being in straight line with ";" separating them. *tr* has a usefu lparameter *-s* that allows us to convert ";" into a new line character "\n". So while transforming, it moves the gene into the next line. 
+1. A *for* loop was executed over all the files that start with a particular string. The `*` is for all files in the current directory that start with a particular string. 
+2. We start with the *cut* command and tell it to cut the file with `|` as the delimiter. This helps us use `-f2` as gene list is now our second column. If instead of `|`, it was a tab character, we wouldn't have required `-d` argument and would have used `-f4` (for 4th column). 
+3. `$f` is our input file. Since we used "f" as the variable to represent a file in our *for* loop, we simply add a `$` sign in front of it to access that file.
+4. The output from this first *cut* command goes into another command *tr* with the help from unix pipe. *tr* simply transforms your file with rows becoming columns and vice versa. We wanted all our genes to be in a single column instead of them being in row with `;` as a separator. *tr* has a usefu lparameter `-s` that allows us to convert `;` into a new line character `\n`. So while transforming, it moves the gene into the next line. 
 5. Our final command *uniq* simply removes the duplicates from the gene list. 
-6. And then we throw the output of this whole *pipeline* into a file that derives it's name from the original file. ${f} allows us to use the name of the original file as part of another string. We don't have to worry about naming our output files differently. 
+6. And then we throw the output of this whole *pipeline* into a file that derives it's name from the original file. `${f}` allows us to use the name of the original file as part of another string. We don't have to worry about naming our output files differently as this automates the process. 
 
 It will depend on the size and the count of your original files but if you haven't played around with a combo of Unix commands before, you will be happily surprise with the speed.
