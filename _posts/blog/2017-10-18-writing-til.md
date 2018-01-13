@@ -12,5 +12,5 @@ It goes without saying that recording your online (or print) intellectual journe
 
 I have made a few promises on this website over it's 2 year lifespan and have embarassingly failed to keep most of them. **TUD** states are the primary culprits for that. *Tired, Unmotivated and Distracted*. They are constantly looming around  and no doubt will try their best to prevent me from writing TIL (today I learned) posts. Good news is that they never have been able to stop me from the act of  learning itself. No matter how trivial the learning, I cannot not learn a new thing everyday. So it is simply a matter of putting it on ~~paper~~ [Typora](https://typora.io/). TIL has always defeated TUD. Here's hoping that it can share some of it's winning powers with **Writing TIL**.
 
-**Note**:  Above idea is definitely now new and has been [executed before](https://github.com/hashrocket/hr-til). 
+**Note**:  Above idea is definitely not new and has been [executed before](https://github.com/hashrocket/hr-til). 
 
