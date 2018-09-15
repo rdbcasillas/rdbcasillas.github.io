@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Résumé
+layout: pages
+title: Résumé<sub>(pdf)</sub>
 weight: 12
 
 ---
@@ -8,8 +8,8 @@ weight: 12
 <html>
 <body>
 
-<object data="{{ site.url }}/papers/VatsalMehra_Resume.pdf" width="1000" height="1000" type="application/pdf">
-</object>
+<iframe src="https://drive.google.com/file/d/13EDC4-vh7pO-y_tumrYDMek4FeY_wNrh/preview" 
+width="100%" height="100%"></iframe>
 
 </body>
 </html>
