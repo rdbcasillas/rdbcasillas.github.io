@@ -27,7 +27,7 @@ categories:
 * [(A Bit of) Biological Neural Networks - Part I, Spiking Neurons](http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/)
 * [Best of the visualisation web... June 2018 - Visualising Data](http://www.visualisingdata.com/2018/09/best-of-the-visualisation-web-june-2018/)
 * [Exploration and Explanation in Computational Notebooks](https://hal.archives-ouvertes.fr/hal-01676633/document)
-* [Google Dataset Search] (https://news.ycombinator.com/item?id=17919297)
+* [Google Dataset Search](https://news.ycombinator.com/item?id=17919297)
 
 #### Education
 * [squeakland : resources : articles](http://www.squeakland.org/resources/articles/article.jsp?id=1003)
